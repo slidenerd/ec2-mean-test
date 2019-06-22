@@ -10,7 +10,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything. S
  6. How to install NGINX to handle traffic on port 80?
  7. How to setup PM2 to handle process management in production for our website?
  8. How to setup a custom domain with Godaddy?
- 9. How to setup FREE SSL on the custom domain using LetsEncrypt? 
+ 9. How to setup FREE SSL on the custom domain using LetsEncrypt/Certbot? 
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -151,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTE4MzI1LDMxOTg0NTQwMCwyNjU1Mz
-A3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTEyODc0MTE5MjcsMzE5ODQ1NDAwLDI2NT
+UzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
