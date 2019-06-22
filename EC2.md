@@ -8,7 +8,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything. S
  4. How to optimize MongoDB for linux?
  5. How to secure the installed MongoDB database?
  6. How to setup a custom domain with Godaddy?
- 7. How to setup FREE SSL on the custom domain using LetsEncryp 
+ 7. How to setup FREE SSL on the custom domain using LetsEncrypt? 
 
 # Files
 
@@ -149,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMDc3MjMsMjUzNDkxMTI2LC0xNzQzND
-Y0NDY5XX0=
+eyJoaXN0b3J5IjpbMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0Mz
+Q2NDQ2OV19
 -->
