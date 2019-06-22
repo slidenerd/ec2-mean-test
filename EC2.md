@@ -1,7 +1,9 @@
 # How to install Node.js and MongoDB on EC2 with security
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! I got tired of reading guides on the internet that do no explain anything. Also, sorry to say this but the EC2 docs suck at going into details. After lots and lots of searching, this is going to be my most comprehensive post that shows the following
 
+ 1. How to setup Ubuntu 18.04 instance on Amazon EC2
+ 2. 
 
 # Files
 
@@ -142,6 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgxNzQ0OTgsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbMTQ3NzYxNjgyMSwtMTc0MzQ2NDQ2OV19
 -->
