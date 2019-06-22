@@ -10,7 +10,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything. S
  6. How to setup a custom domain with Godaddy?
  7. How to setup FREE SSL on the custom domain using LetsEncrypt? 
 
-# Setup Ubuntu instance on EC2
+# Step 1: Setup Ubuntu instance on EC2
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -149,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDgxMzMzLDI2NTUzMDcxMCwyNTM0OT
+eyJoaXN0b3J5IjpbMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OT
 ExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
