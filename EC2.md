@@ -3,7 +3,6 @@
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX and what not. **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark this!** If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
 
 After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. 
-
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
  2. How to install **Node.js using NVM** on this instance
  3. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
@@ -153,7 +152,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4Mjc4MzMwLDEzNDc3NDE5NjIsNTQxNT
+eyJoaXN0b3J5IjpbNDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNT
 E4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMTI2LC0x
 NzQzNDY0NDY5XX0=
 -->
