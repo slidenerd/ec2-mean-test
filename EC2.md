@@ -1,6 +1,6 @@
 # How to install Node.js and MongoDB on EC2 with security
 
-Hi! I got tired of reading guides on the internet that do no explain anything. Sorry to say this but the EC2 docs suck at explaining anything. After lots and lots of Googling, this is going to be my most comprehensive post that shows the following
+Hi! I got tired of reading guides on the internet that do no explain anything. Sorry to say this but the EC2 docs suck at explaining anything. After lots and lots of Googling, this is going to be the most comprehensive post that shows the following
 
  1. How to setup Ubuntu 18.04 instance on Amazon EC2
  2. How to install Node.js using NVM on this instance
@@ -147,6 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ1ODkwMjAsLTE3NDM0NjQ0NjldfQ
-==
+eyJoaXN0b3J5IjpbNDYyNzkxNzQ1LC0xNzQzNDY0NDY5XX0=
 -->
