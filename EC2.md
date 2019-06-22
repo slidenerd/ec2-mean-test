@@ -1,4 +1,4 @@
-# How to install Node.js and MongoDB on EC2 with security
+# How to install Node.js and MongoDB on EC2
 
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. **Bookmark this!** If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues)
 
@@ -151,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ1OTM3NzcsMzE5ODQ1NDAwLDI2NT
+eyJoaXN0b3J5IjpbLTExMjc2MjYzNTksMzE5ODQ1NDAwLDI2NT
 UzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
