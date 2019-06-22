@@ -2,15 +2,15 @@
 
 Hi! I got tired of reading guides on the internet that do no explain anything. Sorry to say this but the EC2 docs suck at explaining anything. After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. **Bookmark this!**
 
- 1. How to setup Ubuntu 18.04 instance on Amazon EC2
- 2. How to install Node.js using NVM on this instance
- 3. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions
- 4. How to optimize MongoDB for linux?
- 5. How to secure the installed MongoDB database?
- 6. How to install NGINX to handle traffic on port 80?
- 7. How to setup PM2 to handle process management in production for our website?
- 8. How to setup a custom domain with Godaddy?
- 9. How to setup FREE SSL on the custom domain using LetsEncrypt/Certbot? 
+ 1. How to setup **Ubuntu 18.04** instance on Amazon EC2
+ 2. How to install **Node.js using NVM** on this instance
+ 3. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
+ 4. How to **optimize** **MongoDB for linux**?
+ 5. How to **secure** the installed **MongoDB** database?
+ 6. How to install **NGINX** to handle traffic on port 80?
+ 7. How to setup **PM2** to handle process management in production for our website?
+ 8. How to setup a custom domain with **Godaddy**?
+ 9. How to setup **FREE SSL** on the custom domain using LetsEncrypt/Certbot? 
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -151,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc0MTE5MjcsMzE5ODQ1NDAwLDI2NT
-UzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNTA3NTczMjUxLDMxOTg0NTQwMCwyNjU1Mz
+A3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
 -->
