@@ -13,7 +13,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  8. Setup SSH keys between GitHub and your EC2 instance
  9. How to install **NGINX** to handle traffic on port 80?
  10. How to setup **PM2** to handle process management in production for our website?
- 11. Setup Elastic IP 
+ 11. Setup Elastic IP before getting a domain name
  12. How to setup a custom domain with **Godaddy**?
  13. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? 
 
@@ -156,7 +156,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ5ODQ2Nyw0NTYxNTIwMTIsMTM0Nz
+eyJoaXN0b3J5IjpbLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nz
 c0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwy
 NTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
