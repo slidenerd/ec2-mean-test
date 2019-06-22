@@ -5,8 +5,10 @@ Hi! I got tired of reading guides on the internet that do no explain anything. S
  1. How to setup Ubuntu 18.04 instance on Amazon EC2
  2. How to install Node.js using NVM on this instance
  3. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions
- 4. How to optimize MongoDB for linux
- 5. How to secure the installed MongoDB 
+ 4. How to optimize MongoDB for linux?
+ 5. How to secure the installed MongoDB database?
+ 6. How to setup a custom domain with Godaddy?
+ 7. How to setup FREE SSL on the custom domain using LetsEncryp 
 
 # Files
 
@@ -147,5 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbNzgzMDc3MjMsMjUzNDkxMTI2LC0xNzQzND
+Y0NDY5XX0=
 -->
