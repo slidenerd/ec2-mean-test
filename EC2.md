@@ -13,8 +13,9 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  8. Setup SSH keys between GitHub and your EC2 instance
  9. How to install **NGINX** to handle traffic on port 80?
  10. How to setup **PM2** to handle process management in production for our website?
- 11. How to setup a custom domain with **Godaddy**?
- 12. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? 
+ 11. Setup Elastic IP 
+ 12. How to setup a custom domain with **Godaddy**?
+ 13. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? 
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -155,7 +156,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY5NTg4NjIsNDU2MTUyMDEyLDEzND
-c3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAs
-MjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTE4MDQ5ODQ2Nyw0NTYxNTIwMTIsMTM0Nz
+c0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwy
+NTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
