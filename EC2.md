@@ -7,8 +7,10 @@ Hi! I got tired of reading guides on the internet that do no explain anything. S
  3. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions
  4. How to optimize MongoDB for linux?
  5. How to secure the installed MongoDB database?
- 6. How to setup a custom domain with Godaddy?
- 7. How to setup FREE SSL on the custom domain using LetsEncrypt? 
+ 6. How to install NGINX to handle traffic on port 80?
+ 7. How to setup PM2 to handle process management in production for our website?
+ 8. How to setup a custom domain with Godaddy?
+ 9. How to setup FREE SSL on the custom domain using LetsEncrypt? 
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -149,6 +151,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OT
-ExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbMTc0NTE4MzI1LDMxOTg0NTQwMCwyNjU1Mz
+A3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
 -->
