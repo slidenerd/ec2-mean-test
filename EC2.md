@@ -62,7 +62,6 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ## Step 3: Configure Instance
 ![Step 3: Configure Instance](https://imgur.com/VuiJQKQ.png)
  1. Now this page has some really complex settings but luckily we don't have to tweak any of them.
- 
 
 # Synchronization
 
@@ -178,10 +177,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDk1MjAzMCw4MTMyNjcxODcsLTE2ND
-Q2Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAw
-NSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNj
-g4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwz
-MTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2ND
-Q2OV19
+eyJoaXN0b3J5IjpbLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNj
+Q0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkw
+MDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMz
+Y4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAs
+MzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0Nj
+Q0NjldfQ==
 -->
