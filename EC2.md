@@ -153,14 +153,14 @@ Click **Next: Configure Security Group** and let's proceed
  6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 ![SSH Connection Successful](https://imgur.com/YTJlBYk.png)
  7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
- 8. **To exit the terminal while connected at any point, press Ctrl + D**
+ 8. **To disconnect at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1Nj
-E2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYy
-MTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Mi
-w5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5
-MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLT
-E0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0
-ODU4NzgzNF19
+eyJoaXN0b3J5IjpbLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLT
+Q1MjY1MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0
+NDA3MDgsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNz
+csLTU5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIy
+MTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLD
+E5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgw
+MjQxMTc0M119
 -->
