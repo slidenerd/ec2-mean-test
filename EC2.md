@@ -34,6 +34,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  3. Enter password
  4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
  5. Questions about the Free Tier are answered by Amazon [HERE](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link
+ 6. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
 ## Switch to another file
 
@@ -166,8 +167,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI5OTg3NDksLTc1NjY4MzEzNCw1Mz
-U5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYy
-LDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MT
-EyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTg0NDA2NjE1MywtNzU2NjgzMTM0LDUzNT
+k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
+NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
+I2LC0xNzQzNDY0NDY5XX0=
 -->
