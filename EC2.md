@@ -2,6 +2,10 @@
 
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX and what not. **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark this!** If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
 
+## **About my local machine**
+ 1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
+ 2. I am on OSX High Sierra 10.13.6. If you are
+
 After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. 
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
  2. **Setup SSH keys** between your local machine and Amazon EC2
@@ -186,10 +190,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNT
-E5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0
-Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NT
-Y2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIs
-MTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMD
-cxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTM4NTgwNzAyNSwtMjQxMDE5NjM3LDQ3Mj
+MyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0
+ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0Mz
+UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
+LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
+U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+
 -->
