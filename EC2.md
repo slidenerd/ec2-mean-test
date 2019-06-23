@@ -44,8 +44,9 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. Enter email
  3. Enter password
  4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
- 5. Questions about the Free Tier are answered by Amazon [HERE](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link
- 6. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
+ 5. Questions about the Free Tier are answered by Amazon [HERE](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
+ 6. Also, check [THESE](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) VPC limits. Report Broken Link.
+ 7. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
 ## Go to your Dashboard
 ![EC2 Dashboard](https://i.imgur.com/ETyy6xr.png)
@@ -192,11 +193,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM5NTE4NTcsMTIxNjU3OTg1NSw3Mj
-I1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3
-MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4ODUxNywtMT
-AyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIyOTE4LC0xNzk5
-MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0MT
-g5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMDgs
-NTE0ODk0MTQ5XX0=
+eyJoaXN0b3J5IjpbLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMj
+E2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4
+OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNj
+czNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3Njcy
+MjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MT
+U2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgs
+LTE2OTYyMTIwOF19
 -->
