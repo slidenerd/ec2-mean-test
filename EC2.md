@@ -81,8 +81,9 @@ This is one of the most important steps in our tutorial so far. You have several
  2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
  4. Install MongoDB + everything else on the  same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
- 5. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
- 6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
+ 5. 
+ 6. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
+ 7. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
  7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
@@ -157,11 +158,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLT
-EzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwxNTQy
-NjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcwMT
-c1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0x
-MzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOT
-UwNjg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMs
-NTg1MDI4NDEwXX0=
+eyJoaXN0b3J5IjpbMjE0NjQyNTgwMywtMTI0ODU4NzgzNCwtMT
+Q4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUy
+ODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mz
+g1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEz
+MzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIzMj
+c5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgy
+LDE4NzA4MzE0M119
 -->
