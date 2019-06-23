@@ -17,7 +17,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. **Connect to EC2 with SSH keys** from your local machine
  3. Update Ubuntu and Reboot Instance
  4. Install **Node.js using NVM** on this instance
- 5. Install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
+ 5. Install MongoDB on the primary partition of this instance but **data, journal and logs** will be stored on different partitions using EBS Volumes?
  6. **Optimize** **MongoDB for linux**?
  7. How to **secure** the installed **MongoDB** database?
  8. Setup SSH keys between your local machine and GitHub
@@ -192,11 +192,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0Mj
-A1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgw
-LC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2ODkxNjksMT
-c2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywtNDUy
-NjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MD
-cwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3Nywt
-NTk2NTQ1ODUyXX0=
+eyJoaXN0b3J5IjpbLTE1NjU0MzM0MzcsNzIyNTc4MTQ3LDU5Mz
+Q1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQx
+OTksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLT
+E3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3
+MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNT
+k2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwt
+MTI3OTE3ODM3N119
 -->
