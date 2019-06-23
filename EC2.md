@@ -94,7 +94,7 @@ This is one of the most important steps in our tutorial so far. You have several
  13. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
  14. Click on **Next: Add Tags** and let's proceed
 
-# Publication
+# Step 5: Add Tags
 
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
@@ -175,11 +175,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcyNDY1NDAsMTMwMjM4NjM3NywtMT
-Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
-NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
-0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
-MzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2Nz
-Q4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQz
-NTEwMDEwOV19
+eyJoaXN0b3J5IjpbMTY3Nzk5Njk3LDEzMDIzODYzNzcsLTE2NT
+I4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQz
+ODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMT
+MzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMy
+NzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0OD
+IsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUx
+MDAxMDldfQ==
 -->
