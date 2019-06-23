@@ -148,7 +148,6 @@ Click **Next: Configure Security Group** and let's proceed
  4. Run `ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com`
 
 ![SSH Permission Error](https://imgur.com/CNedvMV.png)
-
  4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
  5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
@@ -197,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  8. **To exit the terminal while connected at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU0NTIzOSwtNDUyNjUxNTY0LDU2MT
-Y1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIx
-MjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLD
-kwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkx
-ODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMT
-QxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4
-NTg3ODM0XX0=
+eyJoaXN0b3J5IjpbLTE2MDE2OTE2NzEsLTQ1MjY1MTU2NCw1Nj
+E2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYy
+MTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Mi
+w5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5
+MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLT
+E0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0
+ODU4NzgzNF19
 -->
