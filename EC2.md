@@ -55,7 +55,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ## Step 2: Choose an Instance Type
 ![Step 2: Choose an Instance Type](https://imgur.com/WGZhSgz.png)
  1. Instance type dictates how much memory your instance will have.
- 2. We have selected t2.micro here which seems to be the only one eligible on Free Tier
+ 2. We have selected t2.micro here which seems to be the only one eligible on Free Tier at the moment.
+ 3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
 
 ## Export a file
 
@@ -176,7 +177,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTUzMDE3MSwxODcwODMxNDMsNTg1MD
+eyJoaXN0b3J5IjpbLTg2NzgyMjEyNCwxODcwODMxNDMsNTg1MD
 I4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0
 LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3ND
 E5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUz
