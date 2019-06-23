@@ -139,13 +139,12 @@ Click **Next: Configure Security Group** and let's proceed
 ![Step 8: View Instances](https://imgur.com/eVUWa0g.png)
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTkwODAzMiwtMTI3OTE3ODM3NywtNT
-k2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3
-MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MD
-AxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDEx
-NzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MD
-IwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyODg3Miwt
-MTkwNjYwODQ1M119
+eyJoaXN0b3J5IjpbLTEzMjcyNjIxOTAsLTEyNzkxNzgzNzcsLT
+U5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0
+NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5OD
+AwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQx
+MTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxOD
+AyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIs
+LTE5MDY2MDg0NTNdfQ==
 -->
