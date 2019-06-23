@@ -63,7 +63,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ![Step 3: Configure Instance](https://imgur.com/VuiJQKQ.png)
  1. Now this page has some really complex settings but luckily we don't have to tweak any of them.
  2. If you are curious about what these settings mean, feel free to Google each one.
- 3. Now we click on **Next: Add Storage** and proceed
+ 3. Now we click on **Next: Add Storage** and proceed.
 
 # Synchronization
 
@@ -179,10 +179,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNTYzMjUsLTIwNTE5NTA2ODYsODEzMj
-Y3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAs
-LTExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OT
-c5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1
-NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMj
-YsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMz
+I2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEw
+LC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0LDUzNT
+k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
+NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
+I2LC0xNzQzNDY0NDY5XX0=
 -->
