@@ -118,13 +118,16 @@ Click **Next: Configure Security Group** and let's proceed
 
  1. Made a mistake anywhere? Want to make changes? This is the screen where you can do so.
  2. Things are looking solid for us so lets click **Launch**
+
 ![Step 7: Review and Launch](https://imgur.com/6SSN3pH.png)
+# Step 8: Create an SSH Key Pair
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNj
-gwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2
-MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMS
-wtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1
-NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1Nz
-AxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAs
-LTEzMDAyNTI5MjldfQ==
+eyJoaXN0b3J5IjpbLTEwNTc2MDk1MTEsLTU5MDE5MTgwLDY5OD
+A4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4
+MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNC
+wtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0x
+NjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMT
+k0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0Mjks
+LTEzMzMxNDA1MjBdfQ==
 -->
