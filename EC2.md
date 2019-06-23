@@ -139,14 +139,16 @@ Click **Next: Configure Security Group** and let's proceed
 ![Step 8: View Instances](https://imgur.com/eVUWa0g.png)
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
+
 # Connect to EC2 with SSH keys
+ 1. Open Terminal on OSX
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1MT
-Q4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYw
-NzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5OD
-A4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4
-MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNC
-wtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0x
-NjUyODA5NDA4XX0=
+eyJoaXN0b3J5IjpbMTk3MzY0NjAzNiwtMjA4MDQ0MDcwOCwtMT
+Y5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1
+ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNT
+kwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0
+NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDExNzQzLC
+0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MDIwLDEz
+MDIzODYzNzddfQ==
 -->
