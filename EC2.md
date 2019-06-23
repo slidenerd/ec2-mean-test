@@ -169,14 +169,14 @@ Click **Next: Configure Security Group** and let's proceed
  13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
  14. You don't need the command prompt to restart. Do it from the Dashboard as shown below
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
- 15. After rebooting, if you try running sudo apt-get update or sudo apt update again, you should be able to see that all packages are upto date.
+ 15. After rebooting, if you try running sudo apt-get update or sudo apt update again, you should be able to see that all packages are upto date. Also while rebooting you will get disconnected from EC2 so connect back again.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNj
-g0MTI2ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4
-OTE2OSwxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwND
-A3LC00NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0y
-MDgwNDQwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MT
-c4Mzc3LC01OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3Niwy
-MDgyMjEzNDcxXX0=
+eyJoaXN0b3J5IjpbNTQ2MTA4NDkzLC0xNTI0ODQyNzA3LDEyND
+kzNTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYx
+MjksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NC
+wtMTU3MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwtMTUz
+NzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5ND
+E0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5
+NTMxMjI2NzZdfQ==
 -->
