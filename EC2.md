@@ -107,13 +107,16 @@ Click **Next: Configure Security Group** and let's proceed
  1. Security Groups are analogous to a Firewall with differences of course.
  2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
  3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
- 4. 
+![Step 6: Configure Security Group](https://imgur.com/Nh3Krs7.png)
+ 4. By default, we only have SSH port 22 open here. We click **Add Rule** and select **HTTP** from the dropdown and similarly add another rule for **HTTPS**
+ 5. We may 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTAwODEwMSw2OTgwODE5NCwtMTA1MT
-Y4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4
-NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMD
-EsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwx
-NTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NT
-cwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIw
-LC0xMzAwMjUyOTI5XX0=
+eyJoaXN0b3J5IjpbLTE0OTA5NzU1MDAsNjk4MDgxOTQsLTEwNT
+E2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMz
+ODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMj
+AxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgs
+MTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0LDEzNT
+U3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMTMzMzE0MDUy
+MCwtMTMwMDI1MjkyOV19
 -->
