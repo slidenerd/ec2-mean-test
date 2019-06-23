@@ -126,11 +126,12 @@ Click **Next: Configure Security Group** and let's proceed
  2. We can either use an existing key pair or create a new one from the dropdown.
  3. We will select **Create a new key pair** from the dropdown and download the private key file after giving it a name.
  4. **DO NOT LOSE THIS FILE and take a BACKUP of it IMMEDIATELY**
+ 5. 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzYzMTUyMiwyMDgyMjEzNDcxLC01OT
+eyJoaXN0b3J5IjpbMTM5OTU1NDI5NSwyMDgyMjEzNDcxLC01OT
 AxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMDExOTQ1
 LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3NDMsLT
 EyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMTMw
