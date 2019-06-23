@@ -164,13 +164,14 @@ Click **Next: Configure Security Group** and let's proceed
  11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 ![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
  12. `sudo apt-get dist-upgrade  # Installs updates (new ones)`
+ 13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODYyNjc5LC0xNzA2Njg5MTY5LDE3Nj
-cyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1
-MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MD
-gsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5
-NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0Nz
-EsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAw
-MTE5NDVdfQ==
+eyJoaXN0b3J5IjpbMTM2MjU3NTQ4NCwtMTcwNjY4OTE2OSwxNz
+Y3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2
+NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNz
+A4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01
+OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzND
+cxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgw
+MDExOTQ1XX0=
 -->
