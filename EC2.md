@@ -91,13 +91,14 @@ This is one of the most important steps in our tutorial so far. You have several
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
  8. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  9. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
- 10. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
+ 10. [THIS](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) documentation resource from MongoDB clearly mentions why separation is optimal. Report Broken Link
+ 11. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
- 11. The above screen now represents my added volumes.
- 12. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
- 13. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
- 14. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
- 15. Click on **Next: Add Tags** and let's proceed
+ 12. The above screen now represents my added volumes.
+ 13. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
+ 14. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
+ 15. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
+ 16. Click on **Next: Add Tags** and let's proceed
 
 ## Step 1.5: Add Tags
 
@@ -194,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xOD
-YzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3
-NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMz
-Y4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2
-ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MD
-QwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2Nywt
-MjA4MDQ0MDcwOF19
+eyJoaXN0b3J5IjpbLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNz
+gzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4
+MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LD
+EyNDkzNTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3
+MjYxMjksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MT
+I3NCwtMTU3MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwt
+MTUzNzkxNTk2N119
 -->
