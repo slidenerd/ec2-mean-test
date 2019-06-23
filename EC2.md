@@ -1,6 +1,11 @@
 # How to install Node.js and MongoDB on EC2 the production hard way
 
-Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not. **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark this!** If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
+Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not.
+
+>  **Even if you read 300 more articles on the Internet** I assure you,
+> **this one post will blow away all of them.** **Bookmark this!**
+
+If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
 
 ## **About my local machine**
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
@@ -191,11 +196,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY2NDY5NDYsLTEzMDAyNTI5MjksLT
-I0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3
-MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLT
-ExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5
-NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1ND
-E1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjZd
-fQ==
+eyJoaXN0b3J5IjpbMTQ4MTYyNDE2NiwtMTMwMDI1MjkyOSwtMj
+QxMDE5NjM3LDQ3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcx
+ODcsLTE2NDQ2Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMT
+E4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0
+MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MT
+UxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNl19
+
 -->
