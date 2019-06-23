@@ -145,29 +145,71 @@ Click **Next: Configure Security Group** and let's proceed
  2. Type `ssh -i pem_file_location hostname` 
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
 ![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
-My-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
-The authenticity of host 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com (18.217.2.126)' can't be established.
-ECDSA key fingerprint is SHA256:69TTd6OTc5hEg2qILb0Md7vDm9Vr7mXUhbXnYmGPCZA.
-Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com,18.217.2.126' (ECDSA) to the list of known hosts.
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-Permissions 0644 for '/Users/zup/.ssh/node_mongo_prod_test.pem' are too open.
-It is required that your private key files are NOT accessible by others.
-This private key will be ignored.
-Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
-ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
+
+    My-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
+    The authenticity of host 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com (18.217.2.126)' can't be established.
+    ECDSA key fingerprint is SHA256:69TTd6OTc5hEg2qILb0Md7vDm9Vr7mXUhbXnYmGPCZA.
+    Are you sure you want to continue connecting (yes/no)? yes
+    Warning: Permanently added 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com,18.217.2.126' (ECDSA) to the list of known hosts.
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    Permissions 0644 for '/Users/zup/.ssh/node_mongo_prod_test.pem' are too open.
+    It is required that your private key files are NOT accessible by others.
+    This private key will be ignored.
+    Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
+    ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
+
  4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
  5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 
+    My-iMac:~ zup$ chmod 400 ~/.ssh/node_mongo_prod_test.pem
+    My-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
+    Welcome to Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-1032-aws x86_64)
+    
+     * Documentation:  https://help.ubuntu.com
+     * Management:     https://landscape.canonical.com
+     * Support:        https://ubuntu.com/advantage
+    
+      System information as of Sun Jun 23 09:20:45 UTC 2019
+    
+      System load:  0.0               Processes:           84
+      Usage of /:   13.6% of 7.69GB   Users logged in:     0
+      Memory usage: 14%               IP address for eth0: 172.31.27.197
+      Swap usage:   0%
+    
+     * Ubuntu's Kubernetes 1.14 distributions can bypass Docker and use containerd
+       directly, see https://bit.ly/ubuntu-containerd or try it now with
+    
+         snap install microk8s --classic
+    
+      Get cloud support with Ubuntu Advantage Cloud Guest:
+        http://www.ubuntu.com/business/services/cloud
+    
+    0 packages can be updated.
+    0 updates are security updates.
+    
+    
+    
+    The programs included with the Ubuntu system are free software;
+    the exact distribution terms for each program are described in the
+    individual files in /usr/share/doc/*/copyright.
+    
+    Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+    applicable law.
+    
+    To run a command as administrator (user "root"), use "sudo <command>".
+    See "man sudo_root" for details.
+    
+    ubuntu@ip-172-31-27-197:~$  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMD
-gwNDQwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4
-Mzc3LC01OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMD
-gyMjEzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5
-MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC
-04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEz
-MzI5MTgwMjBdfQ==
+eyJoaXN0b3J5IjpbMTI2NjIwNjc1Miw1NjE2NTQxODksLTE1Mz
+c5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1MTQ4OTQx
+NDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYwNzEsOT
+UzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0
+LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLT
+EzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4
+MDAwMzIwMV19
 -->
