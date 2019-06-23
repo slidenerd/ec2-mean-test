@@ -57,6 +57,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  1. Instance type dictates how much memory your instance will have.
  2. We have selected t2.micro here which seems to be the only one eligible on Free Tier at the moment.
  3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
+ 4. Click on **"Next Configure Instance Details"** and proceed
 
 ## Export a file
 
@@ -177,9 +178,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzgyMjEyNCwxODcwODMxNDMsNTg1MD
-I4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0
-LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3ND
-E5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUz
-NDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTE2NDQ2Njc0ODIsMTg3MDgzMTQzLDU4NT
+AyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEz
+NCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3Nz
+QxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1
+MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
 -->
