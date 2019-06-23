@@ -47,6 +47,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ## Step 1: Choose Amazon Machine Image
 ![step 1: choose amazon machine image](https://imgur.com/buMqscB.png)
  1. Notice how the **"Free tier only"** option on the left is checked. 
+ 2. Also notice on the right hand side of the screen, we got a bunch of select buttons and some of them have an option 64-bit x86 and 64-bit arm.
+ 3. EC2 offers x86 and ARM p
 
 ## Delete a file
 
@@ -171,9 +173,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNT
-EwMDEwOSwtNzU2NjgzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYs
-NDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NT
-QwMCwyNjU1MzA3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
-
+eyJoaXN0b3J5IjpbMjQyMzUwMTg2LDU4NTAyODQxMCwtMTE4MT
+U0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0Mywt
+ODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxOD
+Q0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0
+MzQ2NDQ2OV19
 -->
