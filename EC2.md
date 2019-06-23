@@ -84,7 +84,7 @@ This is one of the most important steps in our tutorial so far. You have several
  5. Amazon offers Elastic Block Storage Volumes or EBS Volumes.
  6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
- 7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus Mong
+ 7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
 
 ## Open a file
 
@@ -188,11 +188,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkxMTIwNCwxNTQyNjI4ODcyLC0xOT
-A2NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYx
-MDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC
-0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2
-NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEwLC
-0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0LDUzNTk3
-OTQzXX0=
+eyJoaXN0b3J5IjpbLTE1MTc0MzkzMDgsMTU0MjYyODg3MiwtMT
+kwNjYwODQ1MywtNTAxOTQzODU0LDEzNTU3MDE3NTksMTYyOTA2
+MTAzLDU3OTI3NTQyOSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOS
+wtMjQxMDE5NjM3LDQ3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMy
+NjcxODcsLTE2NDQ2Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMC
+wtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5
+Nzk0M119
 -->
