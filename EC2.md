@@ -68,7 +68,10 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 # Step 4: Add Storage
 
 This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run. Let me list them out for you.
- 1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, C
+ 1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No Thanks,we'll pass)
+ 2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
+ 3. Install MongoDB along with the other tools such as Node on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
+ 4. Install MongoDB along with o
 
 There are two types of synchronization and they can complement each other:
 
@@ -180,10 +183,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxMjkyLDQ3MjMyNzkzNSwtMjA1MT
-k1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0ODIsMTg3MDgzMTQz
-LDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1Nj
-Y4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwx
-MzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNz
-EwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTEzMTE1ODkyOTksNDcyMzI3OTM1LC0yMD
+UxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMx
+NDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNz
+U2NjgzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEy
+LDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1Mz
+A3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
 -->
