@@ -159,15 +159,15 @@ This private key will be ignored.
 Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
 ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
  4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
- 5. You can read about 0644 permission [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
+ 5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDU5NTIxOSwtMTUzNzkxNTk2NywtMj
-A4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3
-ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMj
-A4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAy
-OTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMy
-wtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0x
-MzMyOTE4MDIwXX0=
+eyJoaXN0b3J5IjpbNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMD
+gwNDQwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4
+Mzc3LC01OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMD
+gyMjEzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5
+MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC
+04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEz
+MzI5MTgwMjBdfQ==
 -->
