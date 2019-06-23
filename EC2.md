@@ -81,9 +81,9 @@ This is one of the most important steps in our tutorial so far. You have several
  2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
  4. Install MongoDB + everything else on the  same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
- 5. 
- 6. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
- 7. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
+We are going to use EBS to setup 3 additional volumes of 16 GB, 4 GB and 2 GB.
+ 5. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
+ 6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
  7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
@@ -158,7 +158,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjQyNTgwMywtMTI0ODU4NzgzNCwtMT
+eyJoaXN0b3J5IjpbLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMT
 Q4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUy
 ODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mz
 g1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEz
