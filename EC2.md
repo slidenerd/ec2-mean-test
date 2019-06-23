@@ -99,23 +99,6 @@ This is one of the most important steps in our tutorial so far. You have several
 Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
 Click **Next: Configure Security Group** and let's proceed
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
 
 # Markdown extensions
 
@@ -174,11 +157,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMT
-Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
-NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
-0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
-MzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2Nz
-Q4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQz
-NTEwMDEwOV19
+eyJoaXN0b3J5IjpbLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMT
+MwMjM4NjM3NywtMTY1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2
+NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMD
+MsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0y
+NDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2Nz
+E4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0x
+MTgxNTQ5MDA1XX0=
 -->
