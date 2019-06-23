@@ -155,13 +155,15 @@ Click **Next: Configure Security Group** and let's proceed
  7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
  8. **To disconnect at any point, press Ctrl + D**
  9. The first thing you want to do before installing anything is update your Ubuntu. [HERE](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
+ 10. As per the most popular answer to update above, run
+ 11. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMT
-U3MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkx
-NTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OS
-wtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMx
-MjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLT
-EwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2
-MDMzODYxM119
+eyJoaXN0b3J5IjpbMTU2MjgxODIyOSwxNzY3MjIyOTE4LC0xNz
+k5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0
+MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMD
+gsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4NTIsOTA3
+MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcxLC01OTAxOTE4MC
+w2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMDExOTQ1LC0xNDE4
+MDg4ODIxXX0=
 -->
