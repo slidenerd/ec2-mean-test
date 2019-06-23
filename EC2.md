@@ -148,28 +148,29 @@ Click **Next: Configure Security Group** and let's proceed
  4. Run `ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com`
 
 ![SSH Permission Error](https://imgur.com/CNedvMV.png)
- 4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
- 5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
- 6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
+ 1. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
+ 2. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
+ 3. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 ![SSH Connection Successful](https://imgur.com/YTJlBYk.png)
- 7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
- 8. **To disconnect at any point, press Ctrl + D**
- 9. The first thing you want to do before installing anything is update your Ubuntu. [HERE](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
- 10. As per the most popular answer to update above, run
- 11. `sudo apt-get update        # Fetches the list of available updates`
+ 4. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
+ 5. **To disconnect at any point, press Ctrl + D**
+ 6. The first thing you want to do before installing anything is update your Ubuntu. [HERE](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
+ 7. As per the most popular answer to update above, run
+ 8. `sudo apt-get update        # Fetches the list of available updates`
 ![sudo apt-get update](https://imgur.com/V7drjPc.png)
- 12. Note that you can use apt-get or apt. In case, you are wondering what is the difference between them. [HERE](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
- 13. `sudo apt-get upgrade       # Strictly upgrades the current packages`
+ 9. Note that you can use apt-get or apt. In case, you are wondering what is the difference between them. [HERE](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
+ 10. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
- 14. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
+ 11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 ![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
+ 12. `sudo apt-get dist-upgrade  # Installs updates (new ones)`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMT
-c5OTM4MTI3NCwtMTU3MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1
-NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMj
-A4LDUxNDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLDkw
-NzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxOD
-AsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQx
-ODA4ODgyMV19
+eyJoaXN0b3J5IjpbMjA4ODYyNjc5LC0xNzA2Njg5MTY5LDE3Nj
+cyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1
+MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MD
+gsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5
+NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0Nz
+EsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAw
+MTE5NDVdfQ==
 -->
