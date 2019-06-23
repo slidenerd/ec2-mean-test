@@ -94,27 +94,6 @@ This is one of the most important steps in our tutorial so far. You have several
  13. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
  14. Click on **Next: Add Tags** and let's proceed
 
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
 # Publication
 
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
@@ -196,11 +175,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjQ4MDM3MSwxMzAyMzg2Mzc3LC0xNj
-UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
-Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
-EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
-Mjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3ND
-gyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1
-MTAwMTA5XX0=
+eyJoaXN0b3J5IjpbLTE5MTcyNDY1NDAsMTMwMjM4NjM3NywtMT
+Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
+NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
+0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
+MzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2Nz
+Q4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQz
+NTEwMDEwOV19
 -->
