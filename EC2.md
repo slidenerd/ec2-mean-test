@@ -162,10 +162,10 @@ Click **Next: Configure Security Group** and let's proceed
  13. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
  14. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package.
- 15. 
+![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjY1NDM5NywxNzY3MjIyOTE4LC0xNz
+eyJoaXN0b3J5IjpbLTc4Mzk2MjE0MiwxNzY3MjIyOTE4LC0xNz
 k5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0
 MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMD
 gsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4NTIsOTA3
