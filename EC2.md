@@ -11,7 +11,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. I am on OSX High Sierra 10.13.6
  3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide.
 
-After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. 
+## Agenda
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
  2. **Setup SSH keys** between your local machine and Amazon EC2
  3. How to install **Node.js using NVM** on this instance
@@ -195,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA2MTAzLDE2MjkwNjEwMyw1NzkyNz
-U0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYz
-Nyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNj
-Q0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkw
-MDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMz
-Y4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDBd
-fQ==
+eyJoaXN0b3J5IjpbMTQxNjI4MjA2MCwxNjI5MDYxMDMsNTc5Mj
+c1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2
+MzcsNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMT
+Y0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5
+MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0LDUzNTk3OTQzLC04MT
+M2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQw
+XX0=
 -->
