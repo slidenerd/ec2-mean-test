@@ -15,7 +15,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 ## What are we doing in this post ?
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
  2. **Connect to EC2 with SSH keys** from your local machine
- 3. Update Ubuntu
+ 3. Update Ubuntu and Reboot Instance
  4. Install **Node.js using NVM** on this instance
  5. Install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
  6. **Optimize** **MongoDB for linux**?
@@ -171,7 +171,7 @@ Click **Next: Configure Security Group** and let's proceed
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDk2NDExOCwtNjczNzg4NTE3LC0xMD
+eyJoaXN0b3J5IjpbLTc2NTIwMzI3OSwtNjczNzg4NTE3LC0xMD
 IzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3OTkz
 ODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1NjE2NTQxOD
 ksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1
