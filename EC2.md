@@ -14,7 +14,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 
 ## What are we doing in this post ?
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
- 2. **Connect with SSH keys** between your local machine and Amazon EC2
+ 2. **Connect to EC2 with SSH keys** between your local machine and Amazon EC2
  3. How to install **Node.js using NVM** on this instance
  4. How to install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
  5. How to **optimize** **MongoDB for linux**?
@@ -140,11 +140,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MjU3NjI5LC0xMjc5MTc4Mzc3LC01OT
-Y1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcx
-LC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMD
-ExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3
-NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5MTgwMj
-AsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwxNTQyNjI4ODcyLC0x
-OTA2NjA4NDUzXX0=
+eyJoaXN0b3J5IjpbLTExMjM5Nzk0MTAsLTEyNzkxNzgzNzcsLT
+U5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0
+NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5OD
+AwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQx
+MTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxOD
+AyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIs
+LTE5MDY2MDg0NTNdfQ==
 -->
