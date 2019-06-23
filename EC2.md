@@ -52,9 +52,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  4. We go ahead with x86 for the time being.
  5. Click **Select** and let's proceed
 
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+## Step 2: Choose an Instance Type
+![Step 2: Choose an Instance Type](https://imgur.com/WGZhSgz.png)
 
 ## Export a file
 
@@ -175,9 +174,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MT
-U0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0Mywt
-ODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxOD
-Q0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0
-MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTExMjk3NTk0NjQsMTg3MDgzMTQzLDU4NT
+AyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEz
+NCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3Nz
+QxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1
+MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
 -->
