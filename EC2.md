@@ -184,14 +184,14 @@ Click **Next: Configure Security Group** and let's proceed
  7. Notice that even after installing, NVM command is not found. This is because we need to run one more command to activate it.
  8. Type `source ~/.bashrc`
  9. Now, if you type nvm, you should be able to see the various options under that command.
- 
+![NVM install complete](https://imgur.com/O4jdbCR.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDQ5MTIzMSw1OTM0NTQ3NzUsLTE0ND
-IwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4
-MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LD
-E3NjcyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1
-MjY1MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0ND
-A3MDgsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcs
-LTU5NjU0NTg1Ml19
+eyJoaXN0b3J5IjpbLTE2ODE2NzQ4NzQsNTkzNDU0Nzc1LC0xND
+QyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2
+ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OS
+wxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00
+NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwND
+QwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3
+LC01OTY1NDU4NTJdfQ==
 -->
