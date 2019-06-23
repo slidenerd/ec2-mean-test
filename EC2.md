@@ -45,7 +45,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
 ## Step 1: Choose Amazon Machine Image
-![enter image description here](https://imgur.com/buMqscB.png)
+![step 1: choose amazon machine image](https://imgur.com/buMqscB.png)
+ 1. Notice how the **"Free tier only"** option on the left is checked. 
 
 ## Delete a file
 
@@ -170,9 +171,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzcwNTIzMCwtMTE4MTU0OTAwNSw0Mz
-UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
-LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
-U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNT
+EwMDEwOSwtNzU2NjgzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYs
+NDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NT
+QwMCwyNjU1MzA3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
 
 -->
