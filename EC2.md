@@ -128,15 +128,17 @@ Click **Next: Configure Security Group** and let's proceed
  4. **DO NOT LOSE THIS FILE and take a BACKUP of it IMMEDIATELY**
 ![Step 8: Create a new key pair](https://imgur.com/tdI7NUY.png)
  
+ 5. You are probably wondering where to put this file.
+ 6. Right click on your Finder in OSX, click **Go to Folder**
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MD
-E5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUs
-LTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMT
-I0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAy
-Mzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MD
-g0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1
-NzkyNzU0MjldfQ==
+eyJoaXN0b3J5IjpbMTc5NTIwMzUxOSw5NTMxMjI2NzYsMjA4Mj
+IxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIs
+MTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtOD
+AyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMy
+OTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyOD
+g3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0LDEzNTU3MDE3NTks
+MTYyOTA2MTAzXX0=
 -->
