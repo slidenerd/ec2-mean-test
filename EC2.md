@@ -128,17 +128,17 @@ Click **Next: Configure Security Group** and let's proceed
  4. **DO NOT LOSE THIS FILE and take a BACKUP of it IMMEDIATELY**
 ![Step 8: Create a new key pair](https://imgur.com/tdI7NUY.png)
  
- 5. You are probably wondering where to put this file.
+ 5. You are probably wondering where to put this file. [HERE](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) is an answer to help you with that. Report Broken Link
  6. Right click on your Finder in OSX, click **Go to Folder**
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTIwMzUxOSw5NTMxMjI2NzYsMjA4Mj
-IxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIs
-MTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtOD
-AyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMy
-OTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyOD
-g3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0LDEzNTU3MDE3NTks
-MTYyOTA2MTAzXX0=
+eyJoaXN0b3J5IjpbLTEwNTQxNjUwOTQsOTUzMTIyNjc2LDIwOD
+IyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjky
+LDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLT
+gwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMz
+MjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mj
+g4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5
+LDE2MjkwNjEwM119
 -->
