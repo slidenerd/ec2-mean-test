@@ -89,7 +89,7 @@ This is one of the most important steps in our tutorial so far. You have several
  9. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
  10. The above screen now represents my added volumes.
- 11. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the 
+ 11. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go.
 
 ## Open a file
 
@@ -193,7 +193,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njk4MTE4MywxMzAyMzg2Mzc3LC0xNj
+eyJoaXN0b3J5IjpbMTAzNTY5OTM1MSwxMzAyMzg2Mzc3LC0xNj
 UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
 Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
 EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
