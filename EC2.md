@@ -156,10 +156,12 @@ Click **Next: Configure Security Group** and let's proceed
  8. **To disconnect at any point, press Ctrl + D**
  9. The first thing you want to do before installing anything is update your Ubuntu. [HERE](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
  10. As per the most popular answer to update above, run
- 11. 
+ 11. `sudo apt-get update        # Fetches the list of available updates`
+ 12. `sudo apt-get upgrade       # Strictly upgrades the current packages`
+ 13. The upgrade step will require a confirmation on your end, Press Y 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjgxODIyOSwxNzY3MjIyOTE4LC0xNz
+eyJoaXN0b3J5IjpbLTUxNzc1MTcyNSwxNzY3MjIyOTE4LC0xNz
 k5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0
 MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMD
 gsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4NTIsOTA3
