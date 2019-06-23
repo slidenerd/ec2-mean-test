@@ -38,6 +38,10 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 ## Go to your Dashboard
 ![EC2 Dashboard](https://i.imgur.com/ETyy6xr.png)
+
+ 1. Whew! That looks overwhelming doesn't it
+
+
 ## Rename a file
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
@@ -165,8 +169,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTk2NDQyMSw0MzUxMDAxMDksLTc1Nj
-Y4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwx
-MzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNz
-EwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMjc2MzgyNTE3LDQzNTEwMDEwOSwtNzU2Nj
+gzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEz
+NDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MT
+AsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
 -->
