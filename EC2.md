@@ -142,11 +142,13 @@ Click **Next: Configure Security Group** and let's proceed
 
 # Connect to EC2 with SSH keys
  1. Open Terminal on OSX
- 2. Type ssh -i *pem_file_location* *hostname* If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual
-![enter image description here](https://imgur.com/YaeAzWq.png)
+ 2. Type `ssh -i pem_file_location hostname` 
+ 3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
+![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
+ 4. In our case, the file is stored as ~/.ssh/node_mongo_prod_test.pem, so we ad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0MDkxOTQsLTIwODA0NDA3MDgsLT
+eyJoaXN0b3J5IjpbLTIxMzIwMjY2OTgsLTIwODA0NDA3MDgsLT
 E2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0
 NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLT
 U5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5
