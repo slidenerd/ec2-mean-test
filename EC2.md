@@ -38,7 +38,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 
 ## Create an Account on AWS
 
- 1. Pretty simple and straight forward thing to do.
+ 1. Easy Peasy Lemon Squeezy.
  2. Enter email
  3. Enter password
  4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
@@ -195,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mj
-c1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2
-MzcsNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMT
-Y0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5
-MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0LDUzNTk3OTQzLC04MT
-M2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQw
-XX0=
+eyJoaXN0b3J5IjpbLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2Mj
+kwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5
+MjksLTI0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsOD
+EzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0
+MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNT
+M1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2
+Ml19
 -->
