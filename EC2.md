@@ -189,14 +189,14 @@ Click **Next: Configure Security Group** and let's proceed
 ![nvm ls-remote](https://imgur.com/2yi3MAf.png)
  11. To install the latest version 10.16.0 at the time of this post, type `nvm install 10.16.0`
 ![nvm install 10.16.0](https://imgur.com/XQFMRCR.png)
- 12. Wonderful! not only is the installation successful but the node command also sta
+ 12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzNzYzMzcsNTkzNDU0Nzc1LC0xND
-QyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2
-ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OS
-wxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00
-NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwND
-QwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3
-LC01OTY1NDU4NTJdfQ==
+eyJoaXN0b3J5IjpbLTUwODU5MDM5OCw1OTM0NTQ3NzUsLTE0ND
+IwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4
+MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LD
+E3NjcyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1
+MjY1MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0ND
+A3MDgsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcs
+LTU5NjU0NTg1Ml19
 -->
