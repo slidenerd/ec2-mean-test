@@ -188,13 +188,15 @@ Click **Next: Configure Security Group** and let's proceed
  10. Type the command, `nvm ls-remote` which gives you the list of Node versions that you can install.
 ![nvm ls-remote](https://imgur.com/2yi3MAf.png)
  11. To install the latest version 10.16.0 at the time of this post, type `nvm install 10.16.0`
+![nvm install 10.16.0](https://imgur.com/XQFMRCR.png)
+ 12. Wonderful! not only is the installation successful but the node command also sta
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNDQzOTg0LDU5MzQ1NDc3NSwtMTQ0Mj
-A1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgw
-LC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2ODkxNjksMT
-c2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywtNDUy
-NjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MD
-cwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3Nywt
-NTk2NTQ1ODUyXX0=
+eyJoaXN0b3J5IjpbLTExNTAzNzYzMzcsNTkzNDU0Nzc1LC0xND
+QyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2
+ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OS
+wxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00
+NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwND
+QwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3
+LC01OTY1NDU4NTJdfQ==
 -->
