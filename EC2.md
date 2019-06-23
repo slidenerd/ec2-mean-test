@@ -5,7 +5,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything pr
 ## **About my local machine**
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
  2. I am on OSX High Sierra 10.13.6
- 3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide in a
+ 3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide.
 
 After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. 
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
@@ -191,11 +191,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjQ4MzY4OSwtMjQxMDE5NjM3LDQ3Mj
-MyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0
-ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0Mz
-UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
-LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
-U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
-
+eyJoaXN0b3J5IjpbLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0Nz
+IzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3
+NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsND
+M1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5
+Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5OD
+Q1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0Njld
+fQ==
 -->
