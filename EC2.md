@@ -205,14 +205,14 @@ Click **Next: Configure Security Group** and let's proceed
     ubuntu@ip-172-31-27-197:~$  
 
  7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
- 8. **To exit at any point, press Ctrl + D**
+ 8. **To exit the terminal while connected at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MDk5NTAxLDU2MTY1NDE4OSwtMTUzNz
-kxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0
-OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NT
-MxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQs
-LTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMT
-M2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgw
-MDAzMjAxXX0=
+eyJoaXN0b3J5IjpbLTQ1MjY1MTU2NCw1NjE2NTQxODksLTE1Mz
+c5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1MTQ4OTQx
+NDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYwNzEsOT
+UzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0
+LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLT
+EzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4
+MDAwMzIwMV19
 -->
