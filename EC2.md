@@ -60,9 +60,9 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  4. Click on **"Next Configure Instance Details"** and proceed
 
 ## Step 3: Configure Instance
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
+![Step 3: Configure Instance](https://imgur.com/VuiJQKQ.png)
+ 1. Now this page has some really complex settings but luckily we don't have to tweak any of them.
+ 
 
 # Synchronization
 
@@ -178,9 +178,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4Nz
-A4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5
-LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNT
-IwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2
-NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTQ0NDk1MjAzMCw4MTMyNjcxODcsLTE2ND
+Q2Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAw
+NSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNj
+g4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwz
+MTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2ND
+Q2OV19
 -->
