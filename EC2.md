@@ -24,7 +24,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  9. Setup SSH keys between GitHub and your EC2 instance
  10. How to install **NGINX** to handle traffic on port 80?
  11. How to setup **PM2** to handle process management in production for our website?
- 12. Setup Elastic IP before getting a domain name
+ 12. **Setup Elastic IP** before getting a domain name
  13. How to setup a custom domain with **Godaddy**?
  14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
 
@@ -192,11 +192,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDY2MzExOSwxMjE2NTc5ODU1LDcyMj
-U3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0Mjcw
-NywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4NTE3LC0xMD
-IzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3OTkz
-ODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1NjE2NTQxOD
-ksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1
-MTQ4OTQxNDldfQ==
+eyJoaXN0b3J5IjpbLTE4NjM5NTE4NTcsMTIxNjU3OTg1NSw3Mj
+I1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3
+MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4ODUxNywtMT
+AyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIyOTE4LC0xNzk5
+MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0MT
+g5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMDgs
+NTE0ODk0MTQ5XX0=
 -->
