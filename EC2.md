@@ -121,13 +121,18 @@ Click **Next: Configure Security Group** and let's proceed
 
 ![Step 7: Review and Launch](https://imgur.com/6SSN3pH.png)
 # Step 8: Create an SSH Key Pair
+![Step 8: Create an SSH Key Pair](https://imgur.com/y1IKJIY.png)
+ 1. When you click **Launch** we are shown this modal which asks us to create a key pair.
+ 2. We can either use an existing key pair or create a new one from the dropdown.
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc2MDk1MTEsLTU5MDE5MTgwLDY5OD
-A4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4
-MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNC
-wtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0x
-NjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMT
-k0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0Mjks
-LTEzMzMxNDA1MjBdfQ==
+eyJoaXN0b3J5IjpbMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MD
+gxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgy
+MSwtMTM2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC
+0xNDgwMDAzMjAxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2
+NTI4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOT
+QzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwt
+MTMzMzE0MDUyMF19
 -->
