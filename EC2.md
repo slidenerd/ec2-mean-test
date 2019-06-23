@@ -65,7 +65,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  2. If you are curious about what these settings mean, feel free to Google each one.
  3. Now we click on **Next: Add Storage** and proceed.
 
-# Synchronization
+# Step 4: Add Storage
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -179,10 +179,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMz
-I2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEw
-LC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0LDUzNT
-k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
-NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
-I2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbMTYxOTIyMzI1LDQ3MjMyNzkzNSwtMjA1MT
+k1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0ODIsMTg3MDgzMTQz
+LDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1Nj
+Y4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwx
+MzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNz
+EwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
 -->
