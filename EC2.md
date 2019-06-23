@@ -44,7 +44,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  3. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
  4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
-## Rename a file
+## Click on Launch Instance
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -171,9 +171,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTEzMjc3OCwtMTE4MTU0OTAwNSw0Mz
-UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
-LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
-U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
-
+eyJoaXN0b3J5IjpbLTE3MTY3ODE3ODAsLTExODE1NDkwMDUsND
+M1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5
+Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5OD
+Q1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0Njld
+fQ==
 -->
