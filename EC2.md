@@ -19,7 +19,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 # Step 1: Setup Ubuntu instance on EC2
 
-**We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2?
+**We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2? Perhaps, some [SUGGESTIONS](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) from serverfault would help. Report Broken Link
 
  1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) server-fault answer. Report Broken Link
  2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
@@ -166,8 +166,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNj
-g4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwz
-MTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2ND
-Q2OV19
+eyJoaXN0b3J5IjpbLTE4OTI5OTg3NDksLTc1NjY4MzEzNCw1Mz
+U5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYy
+LDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MT
+EyNiwtMTc0MzQ2NDQ2OV19
 -->
