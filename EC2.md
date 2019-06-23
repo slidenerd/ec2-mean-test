@@ -109,14 +109,17 @@ Click **Next: Configure Security Group** and let's proceed
  3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
 ![Step 6: Configure Security Group](https://imgur.com/Nh3Krs7.png)
  4. By default, we only have SSH port 22 open here. We click **Add Rule** and select **HTTP** from the dropdown and similarly add another rule for **HTTPS**
- 5. We may 
+ 5. We will open more ports for Node and Mongo as required down the line. So keep this Tab in mind.
+ 6. Also, ignore  the warning. It is simply telling us that every single IP address can access these ports which is fine because they are after all Web Server ports, are they not?
+ 7. Feel free to add a description for each in the last column.
+ 8. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA5NzU1MDAsNjk4MDgxOTQsLTEwNT
-E2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMz
-ODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMj
-AxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgs
-MTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0LDEzNT
-U3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMTMzMzE0MDUy
-MCwtMTMwMDI1MjkyOV19
+eyJoaXN0b3J5IjpbNjg3OTU2MjE0LDY5ODA4MTk0LC0xMDUxNj
+gwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2
+MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMS
+wtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1
+NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1Nz
+AxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAs
+LTEzMDAyNTI5MjldfQ==
 -->
