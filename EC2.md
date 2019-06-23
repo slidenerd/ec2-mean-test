@@ -96,7 +96,7 @@ This is one of the most important steps in our tutorial so far. You have several
 
 # Step 5: Add Tags
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
@@ -175,11 +175,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Nzk5Njk3LDEzMDIzODYzNzcsLTE2NT
-I4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQz
-ODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMT
-MzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMy
-NzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0OD
-IsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUx
-MDAxMDldfQ==
+eyJoaXN0b3J5IjpbMTU4NzUyOTQ0MSwxMzAyMzg2Mzc3LC0xNj
+UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
+Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
+EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
+Mjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3ND
+gyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1
+MTAwMTA5XX0=
 -->
