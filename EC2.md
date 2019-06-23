@@ -133,15 +133,16 @@ Click **Next: Configure Security Group** and let's proceed
  7. Type `~/.ssh` which opens the hidden ssh folder on your machine.
  8. Store this **node_mongo_prod_test.pem** file there.
  9. Click on **Launch Instances** on that modal window
-
+![Step 8: Launch Instances](https://imgur.com/WMXflUm.png)
  
+ 10. You should see a screen like this. If you got errors, no worries, got
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY2OTgwNjcsOTA3MTI2MDcxLDk1Mz
-EyMjY3NiwyMDgyMjEzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwt
-MTA1MTY4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMz
-YwMzM4NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAw
-MDMyMDEsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOT
-QwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQs
-MTM1NTcwMTc1OV19
+eyJoaXN0b3J5IjpbMTYwNTkzMTI3MSw5MDcxMjYwNzEsOTUzMT
+IyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0x
+MDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNj
+AzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAw
+MzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5ND
+A4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwx
+MzU1NzAxNzU5XX0=
 -->
