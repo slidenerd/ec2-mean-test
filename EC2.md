@@ -102,8 +102,7 @@ Tags are just used to find objects like instances, volumes etc. We add a single 
 Click **Next: Configure Security Group** and let's proceed
 
 # Step 6: Configure Security Group
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+Security Group is a fancy word for Firewall or atleast offers a 
 
 ## SmartyPants
 
@@ -155,11 +154,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLT
-gwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMz
-MjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mj
-g4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5
-LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMD
-AyNTI5MjksLTI0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2
-ODYsODEzMjY3MTg3XX0=
+eyJoaXN0b3J5IjpbMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMT
+M2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgw
+MDAzMjAxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MD
+k0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0
+LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMTMzMz
+E0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMyNzkz
+NSwtMjA1MTk1MDY4Nl19
 -->
