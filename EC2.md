@@ -169,13 +169,14 @@ Click **Next: Configure Security Group** and let's proceed
  13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
  14. You don't need the command prompt to restart. Do it from the Dashboard as shown below
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
+ 15. List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMj
-M3MjYxMjksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4
-MTI3NCwtMTU3MjU5MDQwNywtNDUyNjUxNTY0LDU2MTY1NDE4OS
-wtMTUzNzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIxMjA4LDUx
-NDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLDkwNzEyNj
-A3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4
-MDgxOTRdfQ==
+eyJoaXN0b3J5IjpbMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mz
+c4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIy
+OTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1Nj
+QsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0x
+Njk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1ND
+U4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcxLC01
+OTAxOTE4MF19
 -->
