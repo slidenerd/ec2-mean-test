@@ -25,7 +25,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  10. How to setup **PM2** to handle process management in production for our website?
  11. Setup Elastic IP before getting a domain name
  12. How to setup a custom domain with **Godaddy**?
- 13. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? 
+ 13. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -141,11 +141,11 @@ Click **Next: Configure Security Group** and let's proceed
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMT
-IyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0x
-MDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNj
-AzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAw
-MzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5ND
-A4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwx
-MzU1NzAxNzU5XX0=
+eyJoaXN0b3J5IjpbLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MD
+cxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgw
+LDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MT
+gwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4
+NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mz
+c3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMs
+LTUwMTk0Mzg1NF19
 -->
