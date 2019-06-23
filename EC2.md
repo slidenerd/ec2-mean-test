@@ -88,7 +88,7 @@ This is one of the most important steps in our tutorial so far. You have several
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
  9. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  10.Below is a snapshot of the final screen.
-  
+ ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
 
 ## Open a file
 
@@ -192,11 +192,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwxNT
-QyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcw
-MTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC
-0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUx
-OTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxND
-MsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2
-NjgzMTM0XX0=
+eyJoaXN0b3J5IjpbNjg1MzU2Mzk2LDEzMDIzODYzNzcsLTE2NT
+I4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQz
+ODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMT
+MzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMy
+NzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0OD
+IsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUx
+MDAxMDldfQ==
 -->
