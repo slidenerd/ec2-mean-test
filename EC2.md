@@ -25,7 +25,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  3. Here is another Serverfault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2)
  4. Ubuntu updates more frequently. 
- 5. We dont know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we dont have at the moment.
+ 5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we dont have at the moment.
 
 ## Create an Account on AWS
 
@@ -162,8 +162,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTY0NDkwLDUzNTk3OTQzLC04MTM2OD
-g2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMx
-OTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMTI2LC0xNzQzNDY0ND
-Y5XX0=
+eyJoaXN0b3J5IjpbMTEwMzkyNzcxNyw1MzU5Nzk0MywtODEzNj
+g4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwz
+MTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2ND
+Q2OV19
 -->
