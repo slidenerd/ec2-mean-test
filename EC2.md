@@ -137,12 +137,15 @@ Click **Next: Configure Security Group** and let's proceed
  10. You should see a screen like this. If you got errors, no worries, go to the bottom of the post where I have posted how to resolve them.
  11. Click on **View Instances**
 ![Step 8: View Instances](https://imgur.com/eVUWa0g.png)
+ 12. If you are looking at this screen, give yourself a BIG PAT on your back.
+ 13. **We have successfully installed Ubuntu 18.04 on EC2**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODU0MjI4LDkwNzEyNjA3MSw5NTMxMj
-I2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEw
-NTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MD
-MzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAz
-MjAxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MD
-gsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQzODU0LDEz
-NTU3MDE3NTldfQ==
+eyJoaXN0b3J5IjpbLTU5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMT
+IyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0x
+MDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNj
+AzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAw
+MzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5ND
+A4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwx
+MzU1NzAxNzU5XX0=
 -->
