@@ -39,8 +39,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ## Go to your Dashboard
 ![EC2 Dashboard](https://i.imgur.com/ETyy6xr.png)
 
- 1. Whew! That looks overwhelming doesn't it
-
+ 1. Whew! That looks overwhelming doesn't it?
+ 2. Worry, not, [HERE](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) is a post explaining the various tabs and terminology. Report Broken Link
 
 ## Rename a file
 
@@ -169,8 +169,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MzgyNTE3LDQzNTEwMDEwOSwtNzU2Nj
-gzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEz
-NDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MT
-AsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NT
+Y2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIs
+MTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMD
+cxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
