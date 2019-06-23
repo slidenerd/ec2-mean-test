@@ -10,6 +10,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
  2. I am on OSX High Sierra 10.13.6
  3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide.
+ 4. If you are on Windows, check [THIS](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) answer for setting up SSH connection with EC2. Report Broken Link
 
 ## What are we doing in this post ?
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
@@ -157,11 +158,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MD
-AxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDEx
-NzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MD
-IwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyODg3Miwt
-MTkwNjYwODQ1MywtNTAxOTQzODU0LDEzNTU3MDE3NTksMTYyOT
-A2MTAzLDU3OTI3NTQyOSwtMTMzMzE0MDUyMCwtMTMwMDI1Mjky
-OSwtMjQxMDE5NjM3XX0=
+eyJoaXN0b3J5IjpbLTQ1NDg3Mzc3Nyw2OTgwODE5NCwtMTA1MT
+Y4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4
+NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMD
+EsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwx
+NTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NT
+cwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIw
+LC0xMzAwMjUyOTI5XX0=
 -->
