@@ -87,8 +87,9 @@ This is one of the most important steps in our tutorial so far. You have several
  7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
  9. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
- 10.Below is a snapshot of the final screen.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
+ 10. The above screen now represents my added volumes.
+ 11. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the 
 
 ## Open a file
 
@@ -192,11 +193,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MzU2Mzk2LDEzMDIzODYzNzcsLTE2NT
-I4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOTQz
-ODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwtMT
-MzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMy
-NzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0OD
-IsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUx
-MDAxMDldfQ==
+eyJoaXN0b3J5IjpbMTU0Njk4MTE4MywxMzAyMzg2Mzc3LC0xNj
+UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
+Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
+EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
+Mjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3ND
+gyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1
+MTAwMTA5XX0=
 -->
