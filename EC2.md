@@ -112,10 +112,10 @@ Click **Next: Configure Security Group** and let's proceed
  5. We will open more ports for Node and Mongo as required down the line. So keep this Tab in mind.
  6. Also, ignore  the warning. It is simply telling us that every single IP address can access these ports which is fine because they are after all Web Server ports, are they not?
  7. Feel free to add a description for each in the last column.
- 8. 
+ 8. Click **Review and Launch** when done to proceed
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3OTU2MjE0LDY5ODA4MTk0LC0xMDUxNj
+eyJoaXN0b3J5IjpbNTg5MjUyOTYxLDY5ODA4MTk0LC0xMDUxNj
 gwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2
 MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMS
 wtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1
