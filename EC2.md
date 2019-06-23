@@ -146,19 +146,7 @@ Click **Next: Configure Security Group** and let's proceed
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
 ![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
 
-    My-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
-    The authenticity of host 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com (18.217.2.126)' can't be established.
-    ECDSA key fingerprint is SHA256:69TTd6OTc5hEg2qILb0Md7vDm9Vr7mXUhbXnYmGPCZA.
-    Are you sure you want to continue connecting (yes/no)? yes
-    Warning: Permanently added 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com,18.217.2.126' (ECDSA) to the list of known hosts.
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    Permissions 0644 for '/Users/zup/.ssh/node_mongo_prod_test.pem' are too open.
-    It is required that your private key files are NOT accessible by others.
-    This private key will be ignored.
-    Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
-    ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
+    
 
  4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
  5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
@@ -208,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  8. **To exit the terminal while connected at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjY1MTU2NCw1NjE2NTQxODksLTE1Mz
-c5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1MTQ4OTQx
-NDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYwNzEsOT
-UzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0
-LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLT
-EzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4
-MDAwMzIwMV19
+eyJoaXN0b3J5IjpbMTQyNzAwOTgwNSwtNDUyNjUxNTY0LDU2MT
+Y1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIx
+MjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLD
+kwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkx
+ODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMT
+QxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4
+NTg3ODM0XX0=
 -->
