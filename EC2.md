@@ -98,7 +98,7 @@ This is one of the most important steps in our tutorial so far. You have several
 
 Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
-
+Click **Next: Configure Security Group** and let's proceed
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
@@ -174,7 +174,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc2NzM1ODIsMTMwMjM4NjM3NywtMT
+eyJoaXN0b3J5IjpbLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMT
 Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
 NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
 0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
