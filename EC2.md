@@ -145,7 +145,6 @@ Click **Next: Configure Security Group** and let's proceed
  2. Type `ssh -i pem_file_location hostname` 
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
 ![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
-
 Viveks-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
 The authenticity of host 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com (18.217.2.126)' can't be established.
 ECDSA key fingerprint is SHA256:69TTd6OTc5hEg2qILb0Md7vDm9Vr7mXUhbXnYmGPCZA.
@@ -160,11 +159,11 @@ This private key will be ignored.
 Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
 ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLT
-E2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0
-NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLT
-U5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5
-NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0My
-wtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwx
-MzAyMzg2Mzc3XX0=
+eyJoaXN0b3J5IjpbMTQ3Njc4ODY1NSwtMTUzNzkxNTk2NywtMj
+A4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3
+ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMj
+A4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAy
+OTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMy
+wtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0x
+MzMyOTE4MDIwXX0=
 -->
