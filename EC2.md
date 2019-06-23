@@ -204,8 +204,10 @@ Click **Next: Configure Security Group** and let's proceed
     
     ubuntu@ip-172-31-27-197:~$  
 
+ 7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjIwNjc1Miw1NjE2NTQxODksLTE1Mz
+eyJoaXN0b3J5IjpbMTk2NDQyMjg0OCw1NjE2NTQxODksLTE1Mz
 c5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1MTQ4OTQx
 NDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYwNzEsOT
 UzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0
