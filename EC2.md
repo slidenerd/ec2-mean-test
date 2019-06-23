@@ -141,7 +141,7 @@ Click **Next: Configure Security Group** and let's proceed
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 
-# Connect to EC2 with SSH keys
+# Step 2: Connect to EC2 with SSH keys
  1. Open Terminal on OSX
  2. Type `ssh -i pem_file_location hostname` 
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
@@ -171,7 +171,7 @@ Click **Next: Configure Security Group** and let's proceed
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTIwMzI3OSwtNjczNzg4NTE3LC0xMD
+eyJoaXN0b3J5IjpbLTM4ODIyOTc0NywtNjczNzg4NTE3LC0xMD
 IzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3OTkz
 ODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1NjE2NTQxOD
 ksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1
