@@ -136,9 +136,9 @@ Click **Next: Configure Security Group** and let's proceed
 ![Step 8: Launch Instances](https://imgur.com/WMXflUm.png)
  10. You should see a screen like this. If you got errors, no worries, go to the bottom of the post where I have posted how to resolve them.
  11. Click on **View Instances**
-
+![Step 8: View Instances](https://imgur.com/eVUWa0g.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczODgzNjc0LDkwNzEyNjA3MSw5NTMxMj
+eyJoaXN0b3J5IjpbMjk1ODU0MjI4LDkwNzEyNjA3MSw5NTMxMj
 I2NzYsMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEw
 NTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MD
 MzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAz
