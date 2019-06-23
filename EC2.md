@@ -170,10 +170,10 @@ Click **Next: Configure Security Group** and let's proceed
  14. You don't need the command prompt to restart. Do it from the Dashboard as shown below
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
  15. After rebooting, if you try running sudo apt-get update or sudo apt update again, you should be able to see that all packages are upto date. Also while rebooting you will get disconnected from EC2 so connect back like the first time we did.
-# Step 4: Install Node.js using No
+# Step 4: Install Node.js using Node Version Manager
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NTMwMTczLC0xNDQyMDU4ODksLTE1Mj
+eyJoaXN0b3J5IjpbNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1Mj
 Q4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4ODUx
 NywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIyOTE4LC
 0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYx
