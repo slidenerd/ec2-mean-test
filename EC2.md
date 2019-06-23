@@ -98,7 +98,6 @@ This is one of the most important steps in our tutorial so far. You have several
 
 Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
 
 ## Publish a File
 
@@ -175,11 +174,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzkxMTc1NCwxMzAyMzg2Mzc3LC0xNj
-UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
-Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
-EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
-Mjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3ND
-gyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1
-MTAwMTA5XX0=
+eyJoaXN0b3J5IjpbLTEyOTc2NzM1ODIsMTMwMjM4NjM3NywtMT
+Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
+NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
+0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
+MzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2Nz
+Q4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQz
+NTEwMDEwOV19
 -->
