@@ -54,7 +54,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  3. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
  4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
-## Step 1: Choose Amazon Machine Image
+## Step 1.1: Choose Amazon Machine Image
 ![step 1: choose amazon machine image](https://imgur.com/buMqscB.png)
  1. Notice how the **"Free tier only"** option on the left is checked. 
  2. Also notice on the right hand side of the screen, we got a bunch of select buttons and some of them have an option 64-bit x86 and 64-bit arm.
@@ -62,20 +62,20 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  4. We go ahead with x86 for the time being.
  5. Click **Select** and let's proceed
 
-## Step 2: Choose an Instance Type
+## Step 1.2: Choose an Instance Type
 ![Step 2: Choose an Instance Type](https://imgur.com/WGZhSgz.png)
  1. Instance type dictates how much memory your instance will have.
  2. We have selected t2.micro here which seems to be the only one eligible on Free Tier at the moment.
  3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  4. Click on **"Next Configure Instance Details"** and proceed
 
-## Step 3: Configure Instance
+## Step 1.3: Configure Instance
 ![Step 3: Configure Instance](https://imgur.com/VuiJQKQ.png)
  1. Now this page has some really complex settings but luckily we don't have to tweak any of them.
  2. If you are curious about what these settings mean, feel free to Google each one.
  3. Now we click on **Next: Add Storage** and proceed.
 
-## Step 4: Add Storage
+## Step 1.4: Add Storage
 
 This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run.
  1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No thanks,we'll pass)
@@ -96,13 +96,13 @@ This is one of the most important steps in our tutorial so far. You have several
  13. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
  14. Click on **Next: Add Tags** and let's proceed
 
-## Step 5: Add Tags
+## Step 1.5: Add Tags
 
 Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
 Click **Next: Configure Security Group** and let's proceed
 
-## Step 6: Configure Security Group
+## Step 1.6: Configure Security Group
 
  1. Security Groups are analogous to a Firewall with differences of course.
  2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
@@ -114,13 +114,13 @@ Click **Next: Configure Security Group** and let's proceed
  7. Feel free to add a description for each in the last column.
  8. Click **Review and Launch** when done to proceed
 
-## Step 7: Review and Launch
+## Step 1.7: Review and Launch
 
  1. Made a mistake anywhere? Want to make changes? This is the screen where you can do so.
  2. Things are looking solid for us so lets click **Launch**
 
 ![Step 7: Review and Launch](https://imgur.com/6SSN3pH.png)
-## Step 8: Create an SSH Key Pair
+## Step 1.8: Create an SSH Key Pair
 ![Step 8: Create an SSH Key Pair](https://imgur.com/y1IKJIY.png)
  1. When you click **Launch** we are shown this modal which asks us to create a key pair.
  2. We can either use an existing key pair or create a new one from the dropdown.
@@ -140,7 +140,7 @@ Click **Next: Configure Security Group** and let's proceed
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcyNjIxOTAsLTEyNzkxNzgzNzcsLT
+eyJoaXN0b3J5IjpbLTE3MTIxMTYzMzQsLTEyNzkxNzgzNzcsLT
 U5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0
 NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5OD
 AwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQx
