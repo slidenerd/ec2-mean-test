@@ -37,8 +37,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  6. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
 ## Go to your Dashboard
-![EC2 Dashboard](https://imgur.com/ETyy6xr)
-
+![EC2 Dashboard](https://i.imgur.com/ETyy6xr.png)
 ## Rename a file
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
@@ -166,8 +165,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OT
-c5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1
-NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMj
-YsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbMjA1MTk2NDQyMSw0MzUxMDAxMDksLTc1Nj
+Y4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwx
+MzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNz
+EwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
 -->
