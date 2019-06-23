@@ -5,7 +5,6 @@ Hi! I got tired of reading guides on the internet that do no explain anything pr
 >  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark it!**
 
 If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) Lets GOO!!!
-
 ## **About my local machine**
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
  2. I am on OSX High Sierra 10.13.6
@@ -195,11 +194,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA2MTAzLDU3OTI3NTQyOSwtMTMzMz
-E0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMyNzkz
-NSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0ODIsMT
-g3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAx
-MDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1Nj
-E1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDBd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNzE3OTIyMTksMTYyOTA2MTAzLDU3OT
+I3NTQyOSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5
+NjM3LDQ3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLT
+E2NDQ2Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0
+OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtOD
+EzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0
+MF19
 -->
