@@ -107,58 +107,8 @@ Click **Next: Configure Security Group** and let's proceed
  1. Security Groups are analogous to a Firewall with differences of course.
  2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
  3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDg3Mzc3Nyw2OTgwODE5NCwtMTA1MT
+eyJoaXN0b3J5IjpbLTcyNjgxNjg0NSw2OTgwODE5NCwtMTA1MT
 Y4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4
 NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMD
 EsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwx
