@@ -152,55 +152,15 @@ Click **Next: Configure Security Group** and let's proceed
  5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  6. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 
-    My-iMac:~ zup$ chmod 400 ~/.ssh/node_mongo_prod_test.pem
-    My-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
-    Welcome to Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-1032-aws x86_64)
-    
-     * Documentation:  https://help.ubuntu.com
-     * Management:     https://landscape.canonical.com
-     * Support:        https://ubuntu.com/advantage
-    
-      System information as of Sun Jun 23 09:20:45 UTC 2019
-    
-      System load:  0.0               Processes:           84
-      Usage of /:   13.6% of 7.69GB   Users logged in:     0
-      Memory usage: 14%               IP address for eth0: 172.31.27.197
-      Swap usage:   0%
-    
-     * Ubuntu's Kubernetes 1.14 distributions can bypass Docker and use containerd
-       directly, see https://bit.ly/ubuntu-containerd or try it now with
-    
-         snap install microk8s --classic
-    
-      Get cloud support with Ubuntu Advantage Cloud Guest:
-        http://www.ubuntu.com/business/services/cloud
-    
-    0 packages can be updated.
-    0 updates are security updates.
-    
-    
-    
-    The programs included with the Ubuntu system are free software;
-    the exact distribution terms for each program are described in the
-    individual files in /usr/share/doc/*/copyright.
-    
-    Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
-    applicable law.
-    
-    To run a command as administrator (user "root"), use "sudo <command>".
-    See "man sudo_root" for details.
-    
-    ubuntu@ip-172-31-27-197:~$  
-
  7. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
  8. **To exit the terminal while connected at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE2OTE2NzEsLTQ1MjY1MTU2NCw1Nj
-E2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYy
-MTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Mi
-w5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5
-MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLT
-E0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0
-ODU4NzgzNF19
+eyJoaXN0b3J5IjpbNzI2NDk5MTE2LC00NTI2NTE1NjQsNTYxNj
+U0MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEy
+MDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4NTIsOT
+A3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcxLC01OTAxOTE4
+MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMDExOTQ1LC0xND
+E4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3NDMsLTEyNDg1
+ODc4MzRdfQ==
 -->
