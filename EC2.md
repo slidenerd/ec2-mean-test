@@ -54,6 +54,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 ## Step 2: Choose an Instance Type
 ![Step 2: Choose an Instance Type](https://imgur.com/WGZhSgz.png)
+ 1. Instance type dictates how much memory your instance will have.
+ 2. We have selected t2.micro here which seems to be the only one eligible on Free Tier
 
 ## Export a file
 
@@ -174,9 +176,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk3NTk0NjQsMTg3MDgzMTQzLDU4NT
-AyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEz
-NCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3Nz
-QxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1
-MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTk3OTUzMDE3MSwxODcwODMxNDMsNTg1MD
+I4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2NjgzMTM0
+LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3ND
+E5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUz
+NDkxMTI2LC0xNzQzNDY0NDY5XX0=
 -->
