@@ -29,7 +29,10 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 ## Create an Account on AWS
 
-Pretty simple and straight forward thing to do.
+ 1. Pretty simple and straight forward thing to do.
+ 2. Enter email
+ 3. Enter password
+ 4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
 
 ## Switch to another file
 
@@ -162,8 +165,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzIwNzQyMiw1MzU5Nzk0MywtODEzNj
-g4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwz
-MTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2ND
-Q2OV19
+eyJoaXN0b3J5IjpbLTE1NDI0NjczMjUsNTM1OTc5NDMsLTgxMz
+Y4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAs
+MzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0Nj
+Q0NjldfQ==
 -->
