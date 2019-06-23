@@ -105,9 +105,6 @@ Click **Next: Configure Security Group** and let's proceed
 
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
 ## SmartyPants
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
@@ -158,11 +155,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMT
-Q4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUy
-ODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mz
-g1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEz
-MzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIzMj
-c5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgy
-LDE4NzA4MzE0M119
+eyJoaXN0b3J5IjpbLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMT
+I0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAy
+Mzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MD
+g0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1
+NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MT
+AxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3
+LC0xNjQ0NjY3NDgyXX0=
 -->
