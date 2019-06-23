@@ -71,7 +71,7 @@ This is one of the most important steps in our tutorial so far. You have several
  1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No Thanks,we'll pass)
  2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
  3. Install MongoDB along with the other tools such as Node on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
- 4. Install MongoDB along with o
+ 4. Install MongoDB along with Node on the same partition but let the database, journal files and logs be stored in separate partitions. **(BINGO! That is the approach we are going to follow)**
 
 There are two types of synchronization and they can complement each other:
 
@@ -183,10 +183,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE1ODkyOTksNDcyMzI3OTM1LC0yMD
-UxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMx
-NDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNz
-U2NjgzMTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEy
-LDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1Mz
-A3MTAsMjUzNDkxMTI2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbLTgwMDI1NTY2OCw0NzIzMjc5MzUsLTIwNT
+E5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0
+Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NT
+Y2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIs
+MTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMD
+cxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
