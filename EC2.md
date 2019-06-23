@@ -24,7 +24,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Serverfault answer.
  2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  3. Here is another Serverfault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2)
- 4. 
+ 4. Ubuntu has updates coming in much more frequently. We dont exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to 
 
 ## Create an Account on AWS
 
@@ -161,8 +161,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM4NTE4NDksNTM1OTc5NDMsLTgxMz
-Y4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAs
-MzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0Nj
-Q0NjldfQ==
+eyJoaXN0b3J5IjpbOTM0NjQ1MDI1LDUzNTk3OTQzLC04MTM2OD
+g2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIsNTQxNTE4NDQwLDMx
+OTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMTI2LC0xNzQzNDY0ND
+Y5XX0=
 -->
