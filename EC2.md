@@ -77,7 +77,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 
 # Step 4: Add Storage
 
-This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run. Let me list them out for you.
+This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run.
  1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No thanks,we'll pass)
  2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
@@ -128,11 +128,11 @@ Click **Next: Configure Security Group** and let's proceed
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MD
-gxOTQsLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgy
-MSwtMTM2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC
-0xNDgwMDAzMjAxLC0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2
-NTI4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNTAxOT
-QzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQyOSwt
-MTMzMzE0MDUyMF19
+eyJoaXN0b3J5IjpbNzU4NzMzNTM4LDIwODIyMTM0NzEsLTU5MD
+E5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUs
+LTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMT
+I0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAy
+Mzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MD
+g0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1
+NzkyNzU0MjldfQ==
 -->
