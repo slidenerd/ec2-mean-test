@@ -75,7 +75,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. If you are curious about what these settings mean, feel free to Google each one.
  3. Now we click on **Next: Add Storage** and proceed.
 
-# Step 4: Add Storage
+## Step 4: Add Storage
 
 This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run.
  1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No thanks,we'll pass)
@@ -96,13 +96,13 @@ This is one of the most important steps in our tutorial so far. You have several
  13. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
  14. Click on **Next: Add Tags** and let's proceed
 
-# Step 5: Add Tags
+## Step 5: Add Tags
 
 Tags are just used to find objects like instances, volumes etc. We add a single tag whose key is *name* and value is *node mongo production instance*
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
 Click **Next: Configure Security Group** and let's proceed
 
-# Step 6: Configure Security Group
+## Step 6: Configure Security Group
 
  1. Security Groups are analogous to a Firewall with differences of course.
  2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
@@ -114,13 +114,13 @@ Click **Next: Configure Security Group** and let's proceed
  7. Feel free to add a description for each in the last column.
  8. Click **Review and Launch** when done to proceed
 
-# Step 7: Review and Launch
+## Step 7: Review and Launch
 
  1. Made a mistake anywhere? Want to make changes? This is the screen where you can do so.
  2. Things are looking solid for us so lets click **Launch**
 
 ![Step 7: Review and Launch](https://imgur.com/6SSN3pH.png)
-# Step 8: Create an SSH Key Pair
+## Step 8: Create an SSH Key Pair
 ![Step 8: Create an SSH Key Pair](https://imgur.com/y1IKJIY.png)
  1. When you click **Launch** we are shown this modal which asks us to create a key pair.
  2. We can either use an existing key pair or create a new one from the dropdown.
@@ -141,11 +141,11 @@ Click **Next: Configure Security Group** and let's proceed
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MD
-cxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgw
-LDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MT
-gwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMTI0ODU4
-NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAyMzg2Mz
-c3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMs
-LTUwMTk0Mzg1NF19
+eyJoaXN0b3J5IjpbMjEzOTkwODAzMiwtMTI3OTE3ODM3NywtNT
+k2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3
+MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4MD
+AxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDEx
+NzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MD
+IwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyODg3Miwt
+MTkwNjYwODQ1M119
 -->
