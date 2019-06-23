@@ -87,7 +87,8 @@ This is one of the most important steps in our tutorial so far. You have several
  7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
  9. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
- 10. 
+ 10.Below is a snapshot of the final screen.
+  
 
 ## Open a file
 
@@ -191,7 +192,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTExNDgyNSwtMTY1MjgwOTQwOCwxNT
+eyJoaXN0b3J5IjpbMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwxNT
 QyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcw
 MTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC
 0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUx
