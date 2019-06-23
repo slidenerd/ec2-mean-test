@@ -41,6 +41,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
  1. Whew! That looks overwhelming doesn't it?
  2. Worry, not, [HERE](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) is a post explaining the various tabs and terminology. Report Broken Link
+ 3. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
+ 4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
 ## Rename a file
 
@@ -169,8 +171,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NT
-Y2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIs
-MTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMD
-cxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTgyMTEzMjc3OCwtMTE4MTU0OTAwNSw0Mz
+UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
+LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
+U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+
 -->
