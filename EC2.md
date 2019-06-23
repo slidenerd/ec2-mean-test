@@ -145,8 +145,9 @@ Click **Next: Configure Security Group** and let's proceed
  2. Type `ssh -i pem_file_location hostname` 
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
 ![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
+ 4. Run ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
 
-    
+  ![enter image description here](https://imgur.com/CNedvMV.png)
 
  4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
  5. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
@@ -196,7 +197,7 @@ Click **Next: Configure Security Group** and let's proceed
  8. **To exit the terminal while connected at any point, press Ctrl + D**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzAwOTgwNSwtNDUyNjUxNTY0LDU2MT
+eyJoaXN0b3J5IjpbMTAxMzk5MDIxNSwtNDUyNjUxNTY0LDU2MT
 Y1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MDcwOCwtMTY5NjIx
 MjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3NywtNTk2NTQ1ODUyLD
 kwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMzQ3MSwtNTkwMTkx
