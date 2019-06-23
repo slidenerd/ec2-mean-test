@@ -48,7 +48,9 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 ![step 1: choose amazon machine image](https://imgur.com/buMqscB.png)
  1. Notice how the **"Free tier only"** option on the left is checked. 
  2. Also notice on the right hand side of the screen, we got a bunch of select buttons and some of them have an option 64-bit x86 and 64-bit arm.
- 3. EC2 offers x86 and ARM p
+ 3. EC2 offers x86 and ARM processors and you can find more about them [HERE](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
+ 4. We go ahead with x86 for the time being.
+ 5. Click **Select** and let's proceed
 
 ## Delete a file
 
@@ -173,7 +175,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMzUwMTg2LDU4NTAyODQxMCwtMTE4MT
+eyJoaXN0b3J5IjpbMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MT
 U0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0Mywt
 ODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxOD
 Q0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0
