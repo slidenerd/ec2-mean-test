@@ -1,10 +1,11 @@
-# How to install Node.js and MongoDB on EC2 the hard way
+# How to install Node.js and MongoDB on EC2 the production hard way
 
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX and what not. **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark this!** If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
 
 ## **About my local machine**
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
- 2. I am on OSX High Sierra 10.13.6. If you are
+ 2. I am on OSX High Sierra 10.13.6
+ 3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide in a
 
 After lots and lots of Googling, this is going to be the most comprehensive post that shows the following. 
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
@@ -190,7 +191,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTgwNzAyNSwtMjQxMDE5NjM3LDQ3Mj
+eyJoaXN0b3J5IjpbLTg2NjQ4MzY4OSwtMjQxMDE5NjM3LDQ3Mj
 MyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0
 ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0Mz
 UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
