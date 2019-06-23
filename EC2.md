@@ -37,7 +37,6 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  6. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
 ## Go to your Dashboard
-
 ![EC2 Dashboard](https://imgur.com/ETyy6xr)
 
 ## Rename a file
@@ -167,8 +166,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTMyMzAwMywtNzU2NjgzMTM0LDUzNT
-k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
-NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
-I2LC0xNzQzNDY0NDY5XX0=
+eyJoaXN0b3J5IjpbNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OT
+c5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1
+NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMj
+YsLTE3NDM0NjQ0NjldfQ==
 -->
