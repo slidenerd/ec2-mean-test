@@ -102,7 +102,10 @@ Tags are just used to find objects like instances, volumes etc. We add a single 
 Click **Next: Configure Security Group** and let's proceed
 
 # Step 6: Configure Security Group
-Security Group is somewhat like a Firewall with differences of course. 
+
+ 1. Security Groups are analogous to a F
+
+Security Group is somewhat like a Firewall with differences of course.
 
 ## SmartyPants
 
@@ -154,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDYwNDMyNywxOTgwMDExOTQ1LC0xND
+eyJoaXN0b3J5IjpbLTg2ODgzMDczNywxOTgwMDExOTQ1LC0xND
 E4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3NDMsLTEyNDg1
 ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMTMwMjM4Nj
 M3NywtMTY1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUz
