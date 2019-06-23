@@ -4,7 +4,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything pr
 
 >  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark it!**
 
-If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
+If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) Lets GOO!!!
 
 ## **About my local machine**
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
@@ -195,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0xMz
-AwMjUyOTI5LC0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOTUw
-Njg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNT
-g1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2Njgz
-MTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzND
-c3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTBd
+eyJoaXN0b3J5IjpbMTYyOTA2MTAzLDU3OTI3NTQyOSwtMTMzMz
+E0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LDQ3MjMyNzkz
+NSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0ODIsMT
+g3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAx
+MDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1Nj
+E1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDBd
 fQ==
 -->
