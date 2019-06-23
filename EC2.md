@@ -19,11 +19,12 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 # Step 1: Setup Ubuntu instance on EC2
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+We are going to install Ubuntu 18.04 on EC2. Why not Amazon Linux or Amazon Linux 2?
 
-## Create files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+## Create an Account on AWS
+
+Pretty simple and straight forward thing to do.
 
 ## Switch to another file
 
@@ -156,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nz
-c0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwy
-NTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbLTIwOTE2MTM0OTUsLTgxMzY4ODY5Niw0NT
+YxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAw
+LDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
