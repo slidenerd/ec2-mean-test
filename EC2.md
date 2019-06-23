@@ -67,7 +67,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 # Step 4: Add Storage
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+This is one of the most important steps in our tutorial so far. You have several choices to decide how MongoDB is run. Let me list them out for you.
+ 1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, C
 
 There are two types of synchronization and they can complement each other:
 
@@ -179,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTIyMzI1LDQ3MjMyNzkzNSwtMjA1MT
+eyJoaXN0b3J5IjpbLTIwMjUxMjkyLDQ3MjMyNzkzNSwtMjA1MT
 k1MDY4Niw4MTMyNjcxODcsLTE2NDQ2Njc0ODIsMTg3MDgzMTQz
 LDU4NTAyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1Nj
 Y4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwx
