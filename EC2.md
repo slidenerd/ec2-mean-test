@@ -36,7 +36,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  5. Questions about the Free Tier are answered by Amazon [HERE](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link
  6. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
-## Switch to another file
+## Create an Running Instance of Ubuntu
 
 All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
 
@@ -167,7 +167,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDA2NjE1MywtNzU2NjgzMTM0LDUzNT
+eyJoaXN0b3J5IjpbMTgyMTQwOTk2NCwtNzU2NjgzMTM0LDUzNT
 k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
 NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
 I2LC0xNzQzNDY0NDY5XX0=
