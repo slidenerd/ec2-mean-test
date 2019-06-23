@@ -15,17 +15,18 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 ## What are we doing in this post ?
  1. How to setup **Ubuntu 18.04** instance on Amazon EC2
  2. **Connect to EC2 with SSH keys** from your local machine
- 3. Install **Node.js using NVM** on this instance
- 4. Install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
- 5. **Optimize** **MongoDB for linux**?
- 6. How to **secure** the installed **MongoDB** database?
- 7. Setup SSH keys between your local machine and GitHub
- 8. Setup SSH keys between GitHub and your EC2 instance
- 9. How to install **NGINX** to handle traffic on port 80?
- 10. How to setup **PM2** to handle process management in production for our website?
- 11. Setup Elastic IP before getting a domain name
- 12. How to setup a custom domain with **Godaddy**?
- 13. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
+ 3. Update Ubuntu
+ 4. Install **Node.js using NVM** on this instance
+ 5. Install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
+ 6. **Optimize** **MongoDB for linux**?
+ 7. How to **secure** the installed **MongoDB** database?
+ 8. Setup SSH keys between your local machine and GitHub
+ 9. Setup SSH keys between GitHub and your EC2 instance
+ 10. How to install **NGINX** to handle traffic on port 80?
+ 11. How to setup **PM2** to handle process management in production for our website?
+ 12. Setup Elastic IP before getting a domain name
+ 13. How to setup a custom domain with **Godaddy**?
+ 14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -170,11 +171,11 @@ Click **Next: Configure Security Group** and let's proceed
 ![Restart Ubuntu Instance](https://imgur.com/rGmToKa.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMT
-cwNjY4OTE2OSwxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcy
-NTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OT
-Y3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0x
-Mjc5MTc4Mzc3LC01OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMj
-Y3NiwyMDgyMjEzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1
-MTY4MDI5Ml19
+eyJoaXN0b3J5IjpbLTYwNDk2NDExOCwtNjczNzg4NTE3LC0xMD
+IzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3OTkz
+ODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1NjE2NTQxOD
+ksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOCw1
+MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMj
+YwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5
+ODA4MTk0XX0=
 -->
