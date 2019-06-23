@@ -107,8 +107,9 @@ Click **Next: Configure Security Group** and let's proceed
  1. Security Groups are analogous to a Firewall with differences of course.
  2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
  3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
+ 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjgxNjg0NSw2OTgwODE5NCwtMTA1MT
+eyJoaXN0b3J5IjpbLTYzMTAwODEwMSw2OTgwODE5NCwtMTA1MT
 Y4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4
 NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMD
 EsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwx
