@@ -80,7 +80,7 @@ This is one of the most important steps in our tutorial so far. You have several
  1. Use MongoDB from a third party Database-As-A-Service provider such as MLabs, Compose etc. (No Thanks,we'll pass)
  2. Create a separate instance that only hosts MongoDB. (This will cost us in the Free Tier to have more than once instance running)
  3. Install MongoDB along with the other tools such as Node on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
- 4. Install MongoDB along with Node on the same partition but let the database, journal files and logs be stored in separate partitions. **(BINGO! That is the approach we are going to follow)**
+ 4. Install MongoDB along with Node on the same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
  5. Amazon offers Elastic Block Storage Volumes or EBS Volumes.
  6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 
@@ -186,7 +186,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzQwNzQ3NiwtMTkwNjYwODQ1MywtNT
+eyJoaXN0b3J5IjpbMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNT
 AxOTQzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQy
 OSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LD
 Q3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2
