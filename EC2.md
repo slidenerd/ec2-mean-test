@@ -17,7 +17,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. **Connect to EC2 with SSH keys** from your local machine
  3. Install **Node.js using NVM** on this instance
  4. Install MongoDB on the primary partition of this instance but data, journal and logs will be stored on different partitions using EBS Volumes?
- 5. How to **optimize** **MongoDB for linux**?
+ 5. **Optimize** **MongoDB for linux**?
  6. How to **secure** the installed **MongoDB** database?
  7. Setup SSH keys between your local machine and GitHub
  8. Setup SSH keys between GitHub and your EC2 instance
@@ -140,11 +140,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. If you are looking at this screen, give yourself a BIG PAT on your back.
  13. **We have successfully installed Ubuntu 18.04 on EC2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMzE5ODU1LDUxNDg5NDE0OSwtMTI3OT
-E3ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYs
-MjA4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2OD
-AyOTIsMTk4MDAxMTk0NSwtMTQxODA4ODgyMSwtMTM2MDMzODYx
-MywtODAyNDExNzQzLC0xMjQ4NTg3ODM0LC0xNDgwMDAzMjAxLC
-0xMzMyOTE4MDIwLDEzMDIzODYzNzcsLTE2NTI4MDk0MDgsMTU0
-MjYyODg3Ml19
+eyJoaXN0b3J5IjpbLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNz
+kxNzgzNzcsLTU5NjU0NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2
+LDIwODIyMTM0NzEsLTU5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNj
+gwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2
+MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMS
+wtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1
+NDI2Mjg4NzJdfQ==
 -->
