@@ -145,10 +145,22 @@ Click **Next: Configure Security Group** and let's proceed
  2. Type `ssh -i pem_file_location hostname` 
  3. If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual in the Terminal window of OSX
 ![EC2 SSH Modal](https://imgur.com/YaeAzWq.png)
- 4. List item
 
+Viveks-iMac:~ zup$ ssh -i "~/.ssh/node_mongo_prod_test.pem" ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com
+The authenticity of host 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com (18.217.2.126)' can't be established.
+ECDSA key fingerprint is SHA256:69TTd6OTc5hEg2qILb0Md7vDm9Vr7mXUhbXnYmGPCZA.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'ec2-18-217-2-126.us-east-2.compute.amazonaws.com,18.217.2.126' (ECDSA) to the list of known hosts.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Permissions 0644 for '/Users/zup/.ssh/node_mongo_prod_test.pem' are too open.
+It is required that your private key files are NOT accessible by others.
+This private key will be ignored.
+Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
+ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwNzMyNzUsLTIwODA0NDA3MDgsLT
+eyJoaXN0b3J5IjpbLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLT
 E2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0
 NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLT
 U5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5
