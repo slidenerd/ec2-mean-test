@@ -158,8 +158,11 @@ It is required that your private key files are NOT accessible by others.
 This private key will be ignored.
 Load key "/Users/zup/.ssh/node_mongo_prod_test.pem": bad permissions
 ubuntu@ec2-18-217-2-126.us-east-2.compute.amazonaws.com: Permission denied (publickey).
+ 4. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
+ 5. You can read about 0644
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Njc4ODY1NSwtMTUzNzkxNTk2NywtMj
+eyJoaXN0b3J5IjpbMTQ2MTAzNTcyNywtMTUzNzkxNTk2NywtMj
 A4MDQ0MDcwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3
 ODM3NywtNTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMj
 A4MjIxMzQ3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAy
