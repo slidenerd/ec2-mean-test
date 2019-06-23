@@ -165,13 +165,14 @@ Click **Next: Configure Security Group** and let's proceed
 ![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
  12. `sudo apt-get dist-upgrade  # Installs updates (new ones)`
  13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
+ 14. You don't need the command prompt to restart. Do it from the Dashboard as 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjU3NTQ4NCwtMTcwNjY4OTE2OSwxNz
-Y3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2
-NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNz
-A4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01
-OTY1NDU4NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzND
-cxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgw
-MDExOTQ1XX0=
+eyJoaXN0b3J5IjpbLTE4NDI4ODAzOTEsLTE3MDY2ODkxNjksMT
+c2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywtNDUy
+NjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MD
+cwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3Nywt
+NTk2NTQ1ODUyLDkwNzEyNjA3MSw5NTMxMjI2NzYsMjA4MjIxMz
+Q3MSwtNTkwMTkxODAsNjk4MDgxOTQsLTEwNTE2ODAyOTIsMTk4
+MDAxMTk0NV19
 -->
