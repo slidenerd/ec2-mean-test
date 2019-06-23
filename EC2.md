@@ -176,14 +176,14 @@ Click **Next: Configure Security Group** and let's proceed
  1. We don't want to install a specific version of node.js
  2. We want the ability to switch between any version of node and even add/remove versions if needed.
  3. This is exactly why we are going to use [NVM](https://github.com/nvm-sh/nvm) Report Broken Link
- 4. 
-
+ 4. First, let's check if node or nvm are available on our Ubuntu instance.
+![Node and NVm are not available](https://imgur.com/zS8rDAD.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAyMjIwNTUsNTkzNDU0Nzc1LC0xND
-QyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2
-ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OS
-wxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00
-NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwND
-QwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3
-LC01OTY1NDU4NTJdfQ==
+eyJoaXN0b3J5IjpbMTczMTQ3MzY4NSw1OTM0NTQ3NzUsLTE0ND
+IwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4
+MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LD
+E3NjcyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1
+MjY1MTU2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0ND
+A3MDgsLTE2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcs
+LTU5NjU0NTg1Ml19
 -->
