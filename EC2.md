@@ -113,14 +113,19 @@ Click **Next: Configure Security Group** and let's proceed
  6. Also, ignore  the warning. It is simply telling us that every single IP address can access these ports which is fine because they are after all Web Server ports, are they not?
  7. Feel free to add a description for each in the last column.
  8. Click **Review and Launch** when done to proceed
+
 # Step 7: Review and Launch
 
+ 1. List item
+
+Made a mistake anywhere? Want to make changes? This is the screen where you can do so.
+![Step 7: Review and Launch](https://imgur.com/6SSN3pH.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NTY0MTk1LDY5ODA4MTk0LC0xMDUxNj
-gwMjkyLDE5ODAwMTE5NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2
-MTMsLTgwMjQxMTc0MywtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMS
-wtMTMzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1
-NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1Nz
-AxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAs
-LTEzMDAyNTI5MjldfQ==
+eyJoaXN0b3J5IjpbMTIxMDMyNjUzMCw2OTgwODE5NCwtMTA1MT
+Y4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4
+NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMD
+EsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwx
+NTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NT
+cwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC0xMzMzMTQwNTIw
+LC0xMzAwMjUyOTI5XX0=
 -->
