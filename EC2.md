@@ -85,18 +85,19 @@ This is one of the most important steps in our tutorial so far. You have several
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
  4. Install MongoDB + everything else on the  same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
 **We are going to use EBS to setup 3 additional volumes of 16 GB, 4 GB and 2 GB.**
- 5. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
- 6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
+ 5. EBS Volumes can have different types, check [THIS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) resource to learn more. Report Broken Link
+ 6. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
+ 7. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
- 7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
- 8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
- 9. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
+ 8. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
+ 9. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
+ 10. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
- 10. The above screen now represents my added volumes.
- 11. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
- 12. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
- 13. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
- 14. Click on **Next: Add Tags** and let's proceed
+ 11. The above screen now represents my added volumes.
+ 12. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
+ 13. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
+ 14. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
+ 15. Click on **Next: Add Tags** and let's proceed
 
 ## Step 1.5: Add Tags
 
@@ -193,11 +194,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMj
-E2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4
-OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNj
-czNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3Njcy
-MjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MT
-U2NCw1NjE2NTQxODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgs
-LTE2OTYyMTIwOF19
+eyJoaXN0b3J5IjpbLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xOD
+YzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3
+NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMz
+Y4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2
+ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MD
+QwNywtNDUyNjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2Nywt
+MjA4MDQ0MDcwOF19
 -->
