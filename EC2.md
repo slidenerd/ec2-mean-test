@@ -103,9 +103,9 @@ Click **Next: Configure Security Group** and let's proceed
 
 # Step 6: Configure Security Group
 
- 1. Security Groups are analogous to a F
-
-Security Group is somewhat like a Firewall with differences of course.
+ 1. Security Groups are analogous to a Firewall with differences of course.
+ 2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
+ 3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link
 
 ## SmartyPants
 
@@ -157,11 +157,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODgzMDczNywxOTgwMDExOTQ1LC0xND
-E4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3NDMsLTEyNDg1
-ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMTMwMjM4Nj
-M3NywtMTY1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUz
-LC01MDE5NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mj
-c1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2
-MzcsNDcyMzI3OTM1XX0=
+eyJoaXN0b3J5IjpbLTEwNTE2ODAyOTIsMTk4MDAxMTk0NSwtMT
+QxODA4ODgyMSwtMTM2MDMzODYxMywtODAyNDExNzQzLC0xMjQ4
+NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MDIwLDEzMDIzOD
+YzNzcsLTE2NTI4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwODQ1
+MywtNTAxOTQzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OT
+I3NTQyOSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5
+NjM3LDQ3MjMyNzkzNV19
 -->
