@@ -44,8 +44,8 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  3. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
  4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
-## Click on Launch Instance
-![enter image description here](https://imgur.com/ETyy6xr.png)
+## Step 1: Choose Amazon Machine Image
+![enter image description here](https://imgur.com/buMqscB.png)
 
 ## Delete a file
 
@@ -170,7 +170,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDE1MjM2NywtMTE4MTU0OTAwNSw0Mz
+eyJoaXN0b3J5IjpbMTQ0MzcwNTIzMCwtMTE4MTU0OTAwNSw0Mz
 UxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4Njk2
 LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0MTUxODQ0MCwzMTk4ND
 U0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
