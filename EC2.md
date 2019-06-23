@@ -38,7 +38,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 ## Go to your Dashboard
 
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
+![EC2 Dashboard](https://imgur.com/ETyy6xr)
 
 ## Rename a file
 
@@ -167,8 +167,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxOTEwODMsLTc1NjY4MzEzNCw1MzU5Nz
-k0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3NzQxOTYyLDU0
-MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1MzQ5MTEyNi
-wtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbMTg5OTMyMzAwMywtNzU2NjgzMTM0LDUzNT
+k3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzNDc3NDE5NjIs
+NTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTAsMjUzNDkxMT
+I2LC0xNzQzNDY0NDY5XX0=
 -->
