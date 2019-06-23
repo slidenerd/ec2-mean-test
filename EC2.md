@@ -82,8 +82,8 @@ This is one of the most important steps in our tutorial so far. You have several
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
  4. Install MongoDB + everything else on the  same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
 We are going to use EBS to setup 3 additional volumes of 16 GB, 4 GB and 2 GB.
- 6. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
- 7. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
+ 5. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
+ 6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
  7. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  8. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
@@ -155,11 +155,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Njk3OTI3NywtODAyNDExNzQzLC0xMj
-Q4NTg3ODM0LC0xNDgwMDAzMjAxLC0xMzMyOTE4MDIwLDEzMDIz
-ODYzNzcsLTE2NTI4MDk0MDgsMTU0MjYyODg3MiwtMTkwNjYwOD
-Q1MywtNTAxOTQzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3
-OTI3NTQyOSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMD
-E5NjM3LDQ3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcs
-LTE2NDQ2Njc0ODJdfQ==
+eyJoaXN0b3J5IjpbLTEzNjAzMzg2MTMsLTgwMjQxMTc0MywtMT
+I0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwxMzAy
+Mzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MD
+g0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1
+NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MT
+AxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3
+LC0xNjQ0NjY3NDgyXX0=
 -->
