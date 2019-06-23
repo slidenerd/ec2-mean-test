@@ -85,14 +85,6 @@ This is one of the most important steps in our tutorial so far. You have several
  6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
  7. Configuring MongoDB as a separate instance is more expensive but at the same time, we need to accommodate our ever growing collections.
 
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
 ## Open a file
 
 You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
@@ -195,11 +187,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2Mj
-kwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5
-MjksLTI0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsOD
-EzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0
-MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNT
-M1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2
-Ml19
+eyJoaXN0b3J5IjpbLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMz
+U1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1
+MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIzMjc5MzUsLT
+IwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4
+MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5LC
+03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNTIw
+MTJdfQ==
 -->
