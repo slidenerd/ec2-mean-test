@@ -91,6 +91,7 @@ This is one of the most important steps in our tutorial so far. You have several
  10. The above screen now represents my added volumes.
  11. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. If you are not sure about the difference between stopping and terminating the instance, [HERE](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
  12. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
+ 13. 
 
 ## Open a file
 
@@ -194,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjYyNjk1OCwxMzAyMzg2Mzc3LC0xNj
-UyODA5NDA4LDE1NDI2Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0
-Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEwMyw1NzkyNzU0MjksLT
-EzMzMxNDA1MjAsLTEzMDAyNTI5MjksLTI0MTAxOTYzNyw0NzIz
-Mjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3MTg3LC0xNjQ0NjY3ND
-gyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1
-MTAwMTA5XX0=
+eyJoaXN0b3J5IjpbLTE4MzUxOTQ5OTYsMTMwMjM4NjM3NywtMT
+Y1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5
+NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMDMsNTc5Mjc1NDI5LC
+0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0yNDEwMTk2MzcsNDcy
+MzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2NzE4NywtMTY0NDY2Nz
+Q4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0xMTgxNTQ5MDA1LDQz
+NTEwMDEwOV19
 -->
