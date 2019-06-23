@@ -143,14 +143,14 @@ Click **Next: Configure Security Group** and let's proceed
 # Connect to EC2 with SSH keys
  1. Open Terminal on OSX
  2. Type ssh -i *pem_file_location* *hostname* If you are not familiar with how the SSH command is used, type `man ssh` which will show you the manual
-![enter image description here](https://imgur.com/eVUWa0g.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDIwNzQ3LC0yMDgwNDQwNzA4LC0xNj
-k2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4
-NTIsOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcxLC01OT
-AxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMDExOTQ1
-LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC04MDI0MTE3NDMsLT
-EyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMTMw
-MjM4NjM3N119
+eyJoaXN0b3J5IjpbLTEzMzE1NDc4MDMsLTIwODA0NDA3MDgsLT
+E2OTYyMTIwOCw1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0
+NTg1Miw5MDcxMjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLT
+U5MDE5MTgwLDY5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5
+NDUsLTE0MTgwODg4MjEsLTEzNjAzMzg2MTMsLTgwMjQxMTc0My
+wtMTI0ODU4NzgzNCwtMTQ4MDAwMzIwMSwtMTMzMjkxODAyMCwx
+MzAyMzg2Mzc3XX0=
 -->
