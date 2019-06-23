@@ -100,7 +100,7 @@ Tags are just used to find objects like instances, volumes etc. We add a single 
 ![Step 5: Add Tags](https://imgur.com/t429Vpu.png)
 Click **Next: Configure Security Group** and let's proceed
 
-# Markdown extensions
+# Step 6: Configure Security Group
 
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
@@ -157,11 +157,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAwMDMyMDEsLTEzMzI5MTgwMjAsMT
-MwMjM4NjM3NywtMTY1MjgwOTQwOCwxNTQyNjI4ODcyLC0xOTA2
-NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcwMTc1OSwxNjI5MDYxMD
-MsNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0xMzAwMjUyOTI5LC0y
-NDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOTUwNjg2LDgxMzI2Nz
-E4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNTg1MDI4NDEwLC0x
-MTgxNTQ5MDA1XX0=
+eyJoaXN0b3J5IjpbMTYyNTUxODg5NywtMTQ4MDAwMzIwMSwtMT
+MzMjkxODAyMCwxMzAyMzg2Mzc3LC0xNjUyODA5NDA4LDE1NDI2
+Mjg4NzIsLTE5MDY2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNz
+U5LDE2MjkwNjEwMyw1NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEz
+MDAyNTI5MjksLTI0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NT
+A2ODYsODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1
+ODUwMjg0MTBdfQ==
 -->
