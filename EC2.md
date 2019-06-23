@@ -83,6 +83,7 @@ This is one of the most important steps in our tutorial so far. You have several
  4. Install MongoDB along with Node on the same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
  5. Amazon offers Elastic Block Storage Volumes or EBS Volumes.
  6. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
+![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
 
 ## Open a file
 
@@ -186,11 +187,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjYyODg3MiwtMTkwNjYwODQ1MywtNT
-AxOTQzODU0LDEzNTU3MDE3NTksMTYyOTA2MTAzLDU3OTI3NTQy
-OSwtMTMzMzE0MDUyMCwtMTMwMDI1MjkyOSwtMjQxMDE5NjM3LD
-Q3MjMyNzkzNSwtMjA1MTk1MDY4Niw4MTMyNjcxODcsLTE2NDQ2
-Njc0ODIsMTg3MDgzMTQzLDU4NTAyODQxMCwtMTE4MTU0OTAwNS
-w0MzUxMDAxMDksLTc1NjY4MzEzNCw1MzU5Nzk0MywtODEzNjg4
-Njk2XX0=
+eyJoaXN0b3J5IjpbNTUxOTg1NjI5LDE1NDI2Mjg4NzIsLTE5MD
+Y2MDg0NTMsLTUwMTk0Mzg1NCwxMzU1NzAxNzU5LDE2MjkwNjEw
+Myw1NzkyNzU0MjksLTEzMzMxNDA1MjAsLTEzMDAyNTI5MjksLT
+I0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3
+MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLT
+ExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5
+NDNdfQ==
 -->
