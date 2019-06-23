@@ -2,7 +2,7 @@
 
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not.
 
->  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark this!**
+>  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark it!**
 
 If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) So are you ready? Great! Strap your seat belts, this s gonna be one heck of a ride! 
 
@@ -195,11 +195,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMxNDA1MjAsLTEzMDAyNTI5MjksLT
-I0MTAxOTYzNyw0NzIzMjc5MzUsLTIwNTE5NTA2ODYsODEzMjY3
-MTg3LC0xNjQ0NjY3NDgyLDE4NzA4MzE0Myw1ODUwMjg0MTAsLT
-ExODE1NDkwMDUsNDM1MTAwMTA5LC03NTY2ODMxMzQsNTM1OTc5
-NDMsLTgxMzY4ODY5Niw0NTYxNTIwMTIsMTM0Nzc0MTk2Miw1ND
-E1MTg0NDAsMzE5ODQ1NDAwLDI2NTUzMDcxMCwyNTM0OTExMjZd
+eyJoaXN0b3J5IjpbNTc5Mjc1NDI5LC0xMzMzMTQwNTIwLC0xMz
+AwMjUyOTI5LC0yNDEwMTk2MzcsNDcyMzI3OTM1LC0yMDUxOTUw
+Njg2LDgxMzI2NzE4NywtMTY0NDY2NzQ4MiwxODcwODMxNDMsNT
+g1MDI4NDEwLC0xMTgxNTQ5MDA1LDQzNTEwMDEwOSwtNzU2Njgz
+MTM0LDUzNTk3OTQzLC04MTM2ODg2OTYsNDU2MTUyMDEyLDEzND
+c3NDE5NjIsNTQxNTE4NDQwLDMxOTg0NTQwMCwyNjU1MzA3MTBd
 fQ==
 -->
