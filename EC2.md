@@ -161,14 +161,15 @@ Click **Next: Configure Security Group** and let's proceed
  12. Note that you can use apt-get or apt. In case, you are wondering what is the difference between them. [HERE](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
  13. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
- 14. The upgrade step will require a confirmation on your end, Press Y 
+ 14. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package.
+ 15. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNjY2ODQ0LDE3NjcyMjI5MTgsLTE3OT
-kzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1NjE2NTQx
-ODksLTE1Mzc5MTU5NjcsLTIwODA0NDA3MDgsLTE2OTYyMTIwOC
-w1MTQ4OTQxNDksLTEyNzkxNzgzNzcsLTU5NjU0NTg1Miw5MDcx
-MjYwNzEsOTUzMTIyNjc2LDIwODIyMTM0NzEsLTU5MDE5MTgwLD
-Y5ODA4MTk0LC0xMDUxNjgwMjkyLDE5ODAwMTE5NDUsLTE0MTgw
-ODg4MjFdfQ==
+eyJoaXN0b3J5IjpbMTIyMjY1NDM5NywxNzY3MjIyOTE4LC0xNz
+k5MzgxMjc0LC0xNTcyNTkwNDA3LC00NTI2NTE1NjQsNTYxNjU0
+MTg5LC0xNTM3OTE1OTY3LC0yMDgwNDQwNzA4LC0xNjk2MjEyMD
+gsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3LC01OTY1NDU4NTIsOTA3
+MTI2MDcxLDk1MzEyMjY3NiwyMDgyMjEzNDcxLC01OTAxOTE4MC
+w2OTgwODE5NCwtMTA1MTY4MDI5MiwxOTgwMDExOTQ1LC0xNDE4
+MDg4ODIxXX0=
 -->
