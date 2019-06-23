@@ -180,10 +180,11 @@ Click **Next: Configure Security Group** and let's proceed
 ![Node and NVm are not available](https://imgur.com/zS8rDAD.png)
  5. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
  6. Notice the version number in the url, if you want a newer version, check the [NVM repo](https://github.com/nvm-sh/nvm) Report Broken Link
- 7. 
+![NVM install](https://imgur.com/wD3PPx5.png)
+ 7. Notice that even after installing, NVM command is not found. This is because we need to run one more command to activate it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODcyNzMxOCw1OTM0NTQ3NzUsLTE0ND
+eyJoaXN0b3J5IjpbMTE1Mzc2ODA5MSw1OTM0NTQ3NzUsLTE0ND
 IwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4
 MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LD
 E3NjcyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1
