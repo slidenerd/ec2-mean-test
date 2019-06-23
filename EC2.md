@@ -178,8 +178,10 @@ Click **Next: Configure Security Group** and let's proceed
  3. This is exactly why we are going to use [NVM](https://github.com/nvm-sh/nvm) Report Broken Link
  4. First, let's check if node or nvm are available on our Ubuntu instance.
 ![Node and NVm are not available](https://imgur.com/zS8rDAD.png)
+ 5. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTQ3MzY4NSw1OTM0NTQ3NzUsLTE0ND
+eyJoaXN0b3J5IjpbLTIwODg5MTMzMyw1OTM0NTQ3NzUsLTE0ND
 IwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4
 MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LD
 E3NjcyMjI5MTgsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1
