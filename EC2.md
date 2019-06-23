@@ -21,9 +21,9 @@ After lots and lots of Googling, this is going to be the most comprehensive post
 
 We are going to install Ubuntu 18.04 on EC2. Why not Amazon Linux or Amazon Linux 2?
 
- 1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Serverfault answer
+ 1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Serverfault answer.
  2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
- 3. Here is another Serverfault Answer that compares [Ubuntu vs Amazon Linux](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2)
+ 3. Here is another Serverfault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2)
  4. 
 
 ## Create an Account on AWS
@@ -161,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcwNTg4ODcsLTgxMzY4ODY5Niw0NT
-YxNTIwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAw
-LDI2NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
+eyJoaXN0b3J5IjpbNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNT
+IwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2
+NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
