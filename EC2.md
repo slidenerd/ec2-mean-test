@@ -59,7 +59,7 @@ After lots and lots of Googling, this is going to be the most comprehensive post
  3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  4. Click on **"Next Configure Instance Details"** and proceed
 
-## Export a file
+## Step 3: Configure Instance
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
@@ -178,9 +178,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ2Njc0ODIsMTg3MDgzMTQzLDU4NT
-AyODQxMCwtMTE4MTU0OTAwNSw0MzUxMDAxMDksLTc1NjY4MzEz
-NCw1MzU5Nzk0MywtODEzNjg4Njk2LDQ1NjE1MjAxMiwxMzQ3Nz
-QxOTYyLDU0MTUxODQ0MCwzMTk4NDU0MDAsMjY1NTMwNzEwLDI1
-MzQ5MTEyNiwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbODEzMjY3MTg3LC0xNjQ0NjY3NDgyLDE4Nz
+A4MzE0Myw1ODUwMjg0MTAsLTExODE1NDkwMDUsNDM1MTAwMTA5
+LC03NTY2ODMxMzQsNTM1OTc5NDMsLTgxMzY4ODY5Niw0NTYxNT
+IwMTIsMTM0Nzc0MTk2Miw1NDE1MTg0NDAsMzE5ODQ1NDAwLDI2
+NTUzMDcxMCwyNTM0OTExMjYsLTE3NDM0NjQ0NjldfQ==
 -->
