@@ -131,16 +131,17 @@ Click **Next: Configure Security Group** and let's proceed
  5. You are probably wondering where to put this file. [HERE](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) is an answer to help you with that. Report Broken Link
  6. Right click on your Finder in OSX, click **Go to Folder**
  7. Type `~/.ssh` which opens the hidden ssh folder on your machine.
- 8. Store this **node_mongo_prod_test.pem** file there
+ 8. Store this **node_mongo_prod_test.pem** file there.
+ 9. Click on **Launch Instances** on that modal window
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MTI2MDcxLDk1MzEyMjY3NiwyMDgyMj
-EzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwtMTA1MTY4MDI5Miwx
-OTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMzYwMzM4NjEzLC04MD
-I0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAwMDMyMDEsLTEzMzI5
-MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOTQwOCwxNTQyNjI4OD
-cyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQsMTM1NTcwMTc1OSwx
-NjI5MDYxMDNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY2OTgwNjcsOTA3MTI2MDcxLDk1Mz
+EyMjY3NiwyMDgyMjEzNDcxLC01OTAxOTE4MCw2OTgwODE5NCwt
+MTA1MTY4MDI5MiwxOTgwMDExOTQ1LC0xNDE4MDg4ODIxLC0xMz
+YwMzM4NjEzLC04MDI0MTE3NDMsLTEyNDg1ODc4MzQsLTE0ODAw
+MDMyMDEsLTEzMzI5MTgwMjAsMTMwMjM4NjM3NywtMTY1MjgwOT
+QwOCwxNTQyNjI4ODcyLC0xOTA2NjA4NDUzLC01MDE5NDM4NTQs
+MTM1NTcwMTc1OV19
 -->
