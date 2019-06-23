@@ -185,13 +185,14 @@ Click **Next: Configure Security Group** and let's proceed
  8. Type `source ~/.bashrc`
  9. Now, if you type nvm, you should be able to see the various options under that command.
 ![NVM install complete](https://imgur.com/O4jdbCR.png) 
+ 10. Type the command, `nvm ls-remote` which gives you the list of Node versions that you can install.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE2NzQ4NzQsNTkzNDU0Nzc1LC0xND
-QyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2
-ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OS
-wxNzY3MjIyOTE4LC0xNzk5MzgxMjc0LC0xNTcyNTkwNDA3LC00
-NTI2NTE1NjQsNTYxNjU0MTg5LC0xNTM3OTE1OTY3LC0yMDgwND
-QwNzA4LC0xNjk2MjEyMDgsNTE0ODk0MTQ5LC0xMjc5MTc4Mzc3
-LC01OTY1NDU4NTJdfQ==
+eyJoaXN0b3J5IjpbLTk3MzA4NjcwLDU5MzQ1NDc3NSwtMTQ0Mj
+A1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgw
+LC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2ODkxNjksMT
+c2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywtNDUy
+NjUxNTY0LDU2MTY1NDE4OSwtMTUzNzkxNTk2NywtMjA4MDQ0MD
+cwOCwtMTY5NjIxMjA4LDUxNDg5NDE0OSwtMTI3OTE3ODM3Nywt
+NTk2NTQ1ODUyXX0=
 -->
