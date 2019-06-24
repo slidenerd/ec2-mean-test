@@ -194,10 +194,10 @@ Click **Next: Configure Security Group** and let's proceed
  14. [MongoDB, should I separate journal and data to different drives: DBA Stackexchange](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  16. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
- 17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
+ 17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) Report Broken Link
  3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTQ2MjI4MywtMjAxMzA0MjE1MiwyMD
+eyJoaXN0b3J5IjpbMTkyMTQ0MTY3NCwtMjAxMzA0MjE1MiwyMD
 k1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYx
 ODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMT
 Y4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2
