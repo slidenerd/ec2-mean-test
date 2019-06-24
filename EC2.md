@@ -25,7 +25,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  12. **Setup Elastic IP** before getting a domain name
  13. How to setup a custom domain with **Godaddy**?
  14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
-	A small note would be that on a true production system, you want to install Node on one instance and MongoDB on another instance. [HERE](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) is a stackoverflow answer discussing the same. Since this will go beyond the limits of FREE Tier we are going to setup both on the same instance.
+	A small note would be that on a true production system, you want to install Node on one instance and MongoDB on another instance. Since this will go beyond the limits of FREE Tier we are going to setup both on the same instance.
 
 # Step 1: Setup Ubuntu instance on EC2
  1. We are going to install Ubuntu 18.04 on EC2.  
@@ -196,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzMyODk3OSwtODcwNzYwNjM5LC00ND
-IzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1
-ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLT
-Y5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1
-Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC
-0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgwLC02NzM3
-ODg1MTddfQ==
+eyJoaXN0b3J5IjpbLTQwOTY1Nzg3NiwxMjM3MzI4OTc5LC04Nz
+A3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0
+NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMT
+U1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5
+NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC
+0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0
+MTI2ODBdfQ==
 -->
