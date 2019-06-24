@@ -35,8 +35,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
 
 ## Create an Account on AWS
- 1. Easy Peasy Lemon Squeezy.
- 2. Enter email
+ 1. Enter email
  3. Enter password
  4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
  7. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
@@ -197,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
  9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMT
-IzNzMyODk3OSwtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5
-OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MC
-wzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgz
-MTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MT
-Q3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEy
-NDkzNTQxOTldfQ==
+eyJoaXN0b3J5IjpbLTEzMjI1NzkwNTEsLTE2OTQzMDIwMzIsLT
+EyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcwNzYwNjM5LC00NDIz
+MTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1OD
+UsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5
+NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nz
+k4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0x
+NTI0ODQyNzA3XX0=
 -->
