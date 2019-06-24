@@ -57,8 +57,6 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 ![Step 2: Choose an Instance Type](https://imgur.com/WGZhSgz.png)
  1. Instance type dictates how much memory your instance will have.
  2. We have selected t2.micro here which seems to be the only one eligible on Free Tier at the moment.
- 3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
- 4. [HERE](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) is a question from stackoverflow that answers if this is enough for MongoDB. Report Broken Link
  5. Click on **"Next Configure Instance Details"** and proceed
 
 ## Step 1.3: Configure Instance
@@ -196,11 +194,11 @@ Click **Next: Configure Security Group** and let's proceed
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
  9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI1NzkwNTEsLTE2OTQzMDIwMzIsLT
-EyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcwNzYwNjM5LC00NDIz
-MTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1OD
-UsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5
-NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nz
-k4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0x
-NTI0ODQyNzA3XX0=
+eyJoaXN0b3J5IjpbLTEzMzIxODM3NzQsLTEzMjI1NzkwNTEsLT
+E2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcw
+NzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4ND
+YsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1
+NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOT
+UxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwt
+MTQ0MjA1ODg5XX0=
 -->
