@@ -33,7 +33,6 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  3. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  4. Ubuntu updates more frequently. 
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
- 6. MongoDB also includes some documentation on how to work with EC2 [HERE](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
 
 ## Create an Account on AWS
 
@@ -198,11 +197,11 @@ Click **Next: Configure Security Group** and let's proceed
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTI1NjM4LDc0NTEwOTk3NiwtOTg2Nz
-IyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1
-LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMT
-g2Mzk1MTg1NywxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3
-NzUsLTE0NDIwNTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LD
-M2ODQxMjY4MCwtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2
-Njg5MTY5XX0=
+eyJoaXN0b3J5IjpbLTIyODYyMTc1OSw3NDUxMDk5NzYsLTk4Nj
+cyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4
+NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLT
+E4NjM5NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0
+Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OS
+wzNjg0MTI2ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcw
+NjY4OTE2OV19
 -->
