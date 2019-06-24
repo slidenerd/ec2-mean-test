@@ -114,8 +114,6 @@ Click **Next: Configure Security Group** and let's proceed
  3. We will select **Create a new key pair** from the dropdown and download the private key file after giving it a name.
  4. **DO NOT LOSE THIS FILE and take a BACKUP of it IMMEDIATELY**
 ![Step 8: Create a new key pair](https://imgur.com/tdI7NUY.png)
- 
- 5. You are probably wondering where to put this file. [HERE](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) is an answer to help you with that. Report Broken Link
  6. Right click on your Finder in OSX, click **Go to Folder**
  7. Type `~/.ssh` which opens the hidden ssh folder on your machine.
  8. Store this **node_mongo_prod_test.pem** file there.
@@ -197,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) Report Broken Link
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDA1MzY2LC02MDUyOTg4OSwtMjAxMz
-A0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAy
-MDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOS
-wtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgy
-MDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MD
-I2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1Nywx
-MjE2NTc5ODU1XX0=
+eyJoaXN0b3J5IjpbLTEzNTA3NTEwMDAsMTMyMDA1MzY2LC02MD
+UyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5
+MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5Nz
+ksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2
+NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MD
+g1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwt
+MTg2Mzk1MTg1N119
 -->
