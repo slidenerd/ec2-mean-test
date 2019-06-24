@@ -144,7 +144,7 @@ Click **Next: Configure Security Group** and let's proceed
 ![sudo apt-get update](https://imgur.com/V7drjPc.png)
  10. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
- 11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
+ 11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package.
 ![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
  12. `sudo apt-get dist-upgrade  # Installs updates (new ones)`
  13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
@@ -196,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) Report Broken Link
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgxNzkzMzcsLTE1ODgxNzkzMzcsMT
-MyMDA1MzY2LC02MDUyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3
-NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0ND
-E0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0
-NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nz
-g4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQs
-LTc4MzEwMjE4NF19
+eyJoaXN0b3J5IjpbLTM4NTY4MDU4MiwtMTU4ODE3OTMzNywxMz
+IwMDUzNjYsLTYwNTI5ODg5LC0yMDEzMDQyMTUyLDIwOTU2MTc0
+OTEsLTEzMjI1NzkwNTEsLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MT
+QsMTIzNzMyODk3OSwtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1
+MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1ODUsMTY2ODg3OD
+g0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwt
+NzgzMTAyMTg0XX0=
 -->
