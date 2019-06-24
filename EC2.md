@@ -40,7 +40,6 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  2. Enter email
  3. Enter password
  4. Enter card details (No don't worry, they won't charge you, you are covered by the 1 year FREE tier plan that applies to the services we use in this tutorial)
- 5. Questions about the Free Tier are answered by Amazon [HERE](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
  6. Also, check [THESE](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) VPC limits. Report Broken Link.
  7. I have not included any screenshots till the end of this process and there is nothing really new here. Let's move on.
 
@@ -197,12 +196,13 @@ Click **Next: Configure Security Group** and let's proceed
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
  4. [MongoDB working with EC2 Documentation](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
+ 5. [Amazon Free Tier FAQ](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA2NjY3Niw3NDUxMDk5NzYsLTk4Nj
-cyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4
-NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLT
-E4NjM5NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0
-Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OS
-wzNjg0MTI2ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcw
-NjY4OTE2OV19
+eyJoaXN0b3J5IjpbLTEyNzEwMTczMDcsNzQ1MTA5OTc2LC05OD
+Y3MjI4NDYsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcw
+ODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC
+0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1
+NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOT
+ksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3
+MDY2ODkxNjldfQ==
 -->
