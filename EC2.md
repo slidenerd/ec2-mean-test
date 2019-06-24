@@ -191,16 +191,16 @@ Click **Next: Configure Security Group** and let's proceed
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
- 9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
+ 9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm) Report Broken Link
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
  12.[Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjIwNDA3LC0xMzIyNTc5MDUxLC0xNj
-k0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2
-MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC
-0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1
-Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MT
-g1NywxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0
-NDIwNTg4OV19
+eyJoaXN0b3J5IjpbMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMT
+Y5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3
+NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0Ni
+wtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1
+NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NT
+E4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0x
+NDQyMDU4ODldfQ==
 -->
