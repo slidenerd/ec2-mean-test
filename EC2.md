@@ -184,7 +184,7 @@ Click **Next: Configure Security Group** and let's proceed
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
  4. [MongoDB working with EC2 Documentation](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
- 5. [Amazon Free Tier FAQ](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
+ 5. [Amazon Free Tier FAQ: AWS Docs](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
  6. [AWS VPC Limits: AWS Docs](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained: Hackernoon](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
@@ -197,7 +197,7 @@ Click **Next: Configure Security Group** and let's proceed
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  15. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYzNTY0NzIsLTIwMTMwNDIxNTIsMj
+eyJoaXN0b3J5IjpbLTE4NTQ5NjI1ODAsLTIwMTMwNDIxNTIsMj
 A5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2
 MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMz
 E2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwx
