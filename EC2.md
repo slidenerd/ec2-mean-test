@@ -139,8 +139,7 @@ Click **Next: Configure Security Group** and let's proceed
  4. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
  5. **To disconnect at any point, press Ctrl + D**
 # Step 3: Update Ubuntu
- 1. The first thing you want to do before installing anything is update your Ubuntu. [HERE](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
- 7. As per the most popular answer to update above, run
+ 1. As per the most popular answer to update above, run
  8. `sudo apt-get update        # Fetches the list of available updates`
 ![sudo apt-get update](https://imgur.com/V7drjPc.png)
  9. Note that you can use apt-get or apt. In case, you are wondering what is the difference between them. [HERE](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
@@ -194,13 +193,13 @@ Click **Next: Configure Security Group** and let's proceed
  17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) Report Broken Link
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
  19. [Where do I keep my Amazon PEM files on OSX: Stackoverflow](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) Report Broken Link
- 20. [0644 directory permission explained: FilePermission](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
+ 20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgyODgwOTIsMTMyMDA1MzY2LC02MD
-UyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5
-MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5Nz
-ksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2
-NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MD
-g1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwt
-MTg2Mzk1MTg1N119
+eyJoaXN0b3J5IjpbNjA5ODAwNTUxLDEzMjAwNTM2NiwtNjA1Mj
+k4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1
+MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC
+04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4Njcy
+Mjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NS
+wtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4
+NjM5NTE4NTddfQ==
 -->
