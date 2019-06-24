@@ -5,7 +5,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything pr
 
 If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) Lets GOO!!!
 
-## **About my local machine**
+## About my local machine
  1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
  2. I am on OSX High Sierra 10.13.6
  3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide.
@@ -196,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDI3MTU1LC04NzA3NjA2MzksLTQ0Mj
-MxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4
-NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNj
-k2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3
-OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLT
-E1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4
-ODUxN119
+eyJoaXN0b3J5IjpbMTIzNzMyODk3OSwtODcwNzYwNjM5LC00ND
+IzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1
+ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLT
+Y5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1
+Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC
+0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgwLC02NzM3
+ODg1MTddfQ==
 -->
