@@ -6,7 +6,7 @@ Hi! I got tired of reading guides on the internet that do no explain anything pr
 If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-mean-test/issues) Lets GOO!!!
 
 ## About my local machine
- 1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc etc is.
+ 1. Experience has taught me that these types of tutorials are super dependent on what my local machine, version etc is.
  2. I am on OSX High Sierra 10.13.6
  3. If you are using Windows, some of the steps such as SSH setup will vary significantly but you will be able to follow through the rest of this guide.
 
@@ -196,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
  23. [New Version of Configuration File etc default grub is available: Unix.Stackexchange](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM3OTMyNTMsNDk5Mjg3Mjg0LC0xNT
-g4MTc5MzM3LDEzMjAwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIx
-NTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMi
-wtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0
-MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0Nz
-U4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwt
-Njk2NTIzMjY0XX0=
+eyJoaXN0b3J5IjpbLTE4NzU0MjkxMDUsLTEyNDM3OTMyNTMsND
+k5Mjg3Mjg0LC0xNTg4MTc5MzM3LDEzMjAwNTM2NiwtNjA1Mjk4
+ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MS
+wtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04
+NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMj
+g0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwt
+MTU1NTc3NzAyNl19
 -->
