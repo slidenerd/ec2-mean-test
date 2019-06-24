@@ -195,12 +195,13 @@ Click **Next: Configure Security Group** and let's proceed
  5. [Amazon Free Tier FAQ](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
+ 8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTY1Nzg3NiwxMjM3MzI4OTc5LC04Nz
-A3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0
-NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMT
-U1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5
-NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC
-0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0
-MTI2ODBdfQ==
+eyJoaXN0b3J5IjpbLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtOD
+cwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4
+NDYsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLT
+E1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYz
+OTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NS
+wtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4
+NDEyNjgwXX0=
 -->
