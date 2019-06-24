@@ -1,4 +1,5 @@
 # How to install Node.js and MongoDB on EC2 the hard way
+
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not.
 
 >  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark it!**
@@ -196,11 +197,11 @@ Click **Next: Configure Security Group** and let's proceed
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
  23. [New Version of Configuration File etc default grub is available: Unix.Stackexchange](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU0MjkxMDUsLTEyNDM3OTMyNTMsND
-k5Mjg3Mjg0LC0xNTg4MTc5MzM3LDEzMjAwNTM2NiwtNjA1Mjk4
-ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MS
-wtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04
-NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMj
-g0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwt
-MTU1NTc3NzAyNl19
+eyJoaXN0b3J5IjpbLTIwNjAyNjQ3MzUsLTE4NzU0MjkxMDUsLT
+EyNDM3OTMyNTMsNDk5Mjg3Mjg0LC0xNTg4MTc5MzM3LDEzMjAw
+NTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MS
+wtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwx
+MjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMD
+k5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQw
+LDMzMTMxNzA4NV19
 -->
