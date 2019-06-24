@@ -29,8 +29,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 
 # Step 1: Setup Ubuntu instance on EC2
 
-**We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2? Perhaps, some [SUGGESTIONS](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) from serverfault would help. Report Broken Link
-
+**We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2?
  1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) server-fault answer. Report Broken Link
  2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  3. Here is another server-fault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
@@ -198,8 +197,9 @@ Click **Next: Configure Security Group** and let's proceed
 
 # Resources
  1. [Windows Putty SSH Connection to EC2](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) Report Broken Link
+ 2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzg0ODA3OSwtOTg2NzIyODQ2LC0xOT
+eyJoaXN0b3J5IjpbMTc4NTYwODMwMCwtOTg2NzIyODQ2LC0xOT
 gyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3
 MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1Ny
 wxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIw
