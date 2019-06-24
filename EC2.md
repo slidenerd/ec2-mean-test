@@ -196,8 +196,9 @@ Click **Next: Configure Security Group** and let's proceed
  1. [Windows Putty SSH Connection to EC2](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) Report Broken Link
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
+ 4. [MongoDB working with EC2 Documentation](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODYyMTc1OSw3NDUxMDk5NzYsLTk4Nj
+eyJoaXN0b3J5IjpbLTE1NzA2NjY3Niw3NDUxMDk5NzYsLTk4Nj
 cyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4
 NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLT
 E4NjM5NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0
