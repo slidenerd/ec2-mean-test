@@ -51,7 +51,6 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 ![step 1: choose amazon machine image](https://imgur.com/buMqscB.png)
  1. Notice how the **"Free tier only"** option on the left is checked. 
  2. Also notice on the right hand side of the screen, we got a bunch of select buttons and some of them have an option 64-bit x86 and 64-bit arm.
- 3. EC2 offers x86 and ARM processors and you can find more about them [HERE](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
  4. We go ahead with x86 for the time being.
  5. Click **Select** and let's proceed
 
@@ -197,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtOD
-cwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4
-NDYsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLT
-E1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYz
-OTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NS
-wtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4
-NDEyNjgwXX0=
+eyJoaXN0b3J5IjpbLTU1NDk1NjcwNCwtMTI2MTgxNDQxNCwxMj
+M3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5
+NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLD
+MzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMx
+MDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxND
+csNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0
+OTM1NDE5OV19
 -->
