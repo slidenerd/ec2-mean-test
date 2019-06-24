@@ -73,7 +73,6 @@ This is one of the most important steps in our tutorial so far. You have several
  3. Install MongoDB + everything else on the same partition. (Simplest possible setup but not scalable in the long run when your DB starts growing)
  4. Install MongoDB + everything else on the  same partition but let the database, journal files and logs be stored in separate partitions to accommodate our ever growing collections. **(BINGO! That is the approach we are going to follow)**
 **We are going to use EBS to setup 3 additional volumes of 16 GB, 4 GB and 2 GB.**
- 5. EBS Volumes can have different types, check [THIS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) resource to learn more. Report Broken Link
  6. Amazon offers Elastic Block Storage Volumes (EBS Volumes).
  7. Think of EBS Volumes as portable hard drives on your PC. One of them is getting full? No probems, just buy another one and start storing data in it.
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
@@ -196,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  4. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYzMDE1NzMsLTEzMjI1NzkwNTEsLT
-E2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcw
-NzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4ND
-YsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1
-NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOT
-UxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwt
-MTQ0MjA1ODg5XX0=
+eyJoaXN0b3J5IjpbODQ0MTkxNTQ4LC0xMzIyNTc5MDUxLC0xNj
+k0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2
+MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC
+0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1
+Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MT
+g1NywxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0
+NDIwNTg4OV19
 -->
