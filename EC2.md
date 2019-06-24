@@ -27,6 +27,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  12. **Setup Elastic IP** before getting a domain name
  13. How to setup a custom domain with **Godaddy**?
  14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
+A small note would be that on a true production system, you want to install Node Express PM@ 
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -198,11 +199,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY3MzMwMTAsLTE5ODIwNDc1ODUsMT
-Y2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUy
-MzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NT
-UsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0
-ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MT
-csLTEwMjM3MjYxMjksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwt
-MTc5OTM4MTI3NF19
+eyJoaXN0b3J5IjpbMTk0NjY0Mjg3LC0xOTgyMDQ3NTg1LDE2Nj
+g4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMy
+NjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1LD
+cyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0
+MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4NTE3LC
+0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3
+OTkzODEyNzRdfQ==
 -->
