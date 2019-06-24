@@ -192,16 +192,16 @@ Click **Next: Configure Security Group** and let's proceed
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
  12. [Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
- 13. [MongoDB Documentation: Separate data, logs and journal into different storage devices](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) Report Broken Link
+ 13. [Separate data, logs and journal into different storage devices: MongoDB Docs](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) Report Broken Link
  14. [MongoDB, should I separate journal and data to different drives: DBA Stackexchange](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  15. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzcyMzE0NSwtMjAxMzA0MjE1MiwyMD
-k1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYx
-ODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMT
-Y4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2
-Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1Mj
-MyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1
-LDcyMjU3ODE0N119
+eyJoaXN0b3J5IjpbLTIxMjAwNjQyODIsLTIwMTMwNDIxNTIsMj
+A5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2
+MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMz
+E2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwx
+NjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NT
+IzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3OTg1
+NSw3MjI1NzgxNDddfQ==
 -->
