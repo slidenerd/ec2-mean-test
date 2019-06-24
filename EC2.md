@@ -194,9 +194,9 @@ Click **Next: Configure Security Group** and let's proceed
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
  12. [Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
  13. [MongoDB Documentation: Separate data, logs and journal into different storage devices](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) Report Broken Link
- 14. Another post from dba.stackexchange.com explaining data and journal separation [HERE](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
+ 14. [MongoDB, should I separate journal and data to different drives: DBA Stackexchange](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAwNDc1NTcsMjA5NTYxNzQ5MSwtMT
+eyJoaXN0b3J5IjpbLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMT
 MyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3
 MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5Nz
 YsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMz
