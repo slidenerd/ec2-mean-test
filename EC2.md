@@ -194,8 +194,9 @@ Click **Next: Configure Security Group** and let's proceed
  19. [Where do I keep my Amazon PEM files on OSX: Stackoverflow](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) Report Broken Link
  20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) Report Broken Link
+ 22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDYwMjM0MSwxMzIwMDUzNjYsLTYwNT
+eyJoaXN0b3J5IjpbLTg4NjgzMzgxNiwxMzIwMDUzNjYsLTYwNT
 I5ODg5LC0yMDEzMDQyMTUyLDIwOTU2MTc0OTEsLTEzMjI1Nzkw
 NTEsLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OS
 wtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3
