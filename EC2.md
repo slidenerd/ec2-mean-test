@@ -194,13 +194,13 @@ Click **Next: Configure Security Group** and let's proceed
  9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
- 12.[Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) resource to learn more. Report Broken Link 
+ 12.[Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTU0NTUsLTEzMjI1NzkwNTEsLTE2OT
-QzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcwNzYw
-NjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLT
-E5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3
-NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxOD
-U3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0
-MjA1ODg5XX0=
+eyJoaXN0b3J5IjpbLTc2MjIwNDA3LC0xMzIyNTc5MDUxLC0xNj
+k0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2
+MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC
+0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1
+Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MT
+g1NywxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0
+NDIwNTg4OV19
 -->
