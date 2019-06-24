@@ -195,13 +195,13 @@ Click **Next: Configure Security Group** and let's proceed
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  16. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
  17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) Report Broken Link
- 3. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
+ 18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTE0Nzk1NSwtMjAxMzA0MjE1MiwyMD
-k1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYx
-ODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMT
-Y4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2
-Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1Mj
-MyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1
-LDcyMjU3ODE0N119
+eyJoaXN0b3J5IjpbLTYwNTI5ODg5LC0yMDEzMDQyMTUyLDIwOT
+U2MTc0OTEsLTEzMjI1NzkwNTEsLTE2OTQzMDIwMzIsLTEyNjE4
+MTQ0MTQsMTIzNzMyODk3OSwtODcwNzYwNjM5LC00NDIzMTMxNj
+gsNzQ1MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1ODUsMTY2
+ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMz
+I2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUs
+NzIyNTc4MTQ3XX0=
 -->
