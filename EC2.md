@@ -70,7 +70,8 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  1. Instance type dictates how much memory your instance will have.
  2. We have selected t2.micro here which seems to be the only one eligible on Free Tier at the moment.
  3. You can check the specs and pricing of t2.micro [HERE](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
- 4. Click on **"Next Configure Instance Details"** and proceed
+ 4. [HERE](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) is a question from stackoverflow that answers if this is enough for MongoDB. Report Broken Link
+ 5. Click on **"Next Configure Instance Details"** and proceed
 
 ## Step 1.3: Configure Instance
 ![Step 3: Configure Instance](https://imgur.com/VuiJQKQ.png)
@@ -197,11 +198,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NT
-U3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUx
-ODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMT
-Q0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEy
-NjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2ODkxNj
-ksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywt
-NDUyNjUxNTY0XX0=
+eyJoaXN0b3J5IjpbLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMz
+EzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAy
+MTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LD
+U5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkz
+NTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMj
+ksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwt
+MTU3MjU5MDQwN119
 -->
