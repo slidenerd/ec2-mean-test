@@ -31,8 +31,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 
 **We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2?
  1. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
- 3. 
- 4. Ubuntu updates more frequently. 
+ 3. Ubuntu updates more frequently. 
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
  6. MongoDB also includes some documentation on how to work with EC2 [HERE](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
 
@@ -199,7 +198,7 @@ Click **Next: Configure Security Group** and let's proceed
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg3NjgwMzQsLTk4NjcyMjg0NiwtMT
+eyJoaXN0b3J5IjpbLTExMjAzNDEzNzAsLTk4NjcyMjg0NiwtMT
 k4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3
 NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NT
 csMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQy
