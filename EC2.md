@@ -160,7 +160,6 @@ Click **Next: Configure Security Group** and let's proceed
  4. First, let's check if node or nvm are available on our Ubuntu instance.
 ![Node and NVm are not available](https://imgur.com/zS8rDAD.png)
  5. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
- 6. Notice the version number in the url, if you want a newer version, check the [NVM repo](https://github.com/nvm-sh/nvm) Report Broken Link
 ![NVM install](https://imgur.com/wD3PPx5.png)
  7. Notice that even after installing, NVM command is not found. This is because we need to run one more command to activate it.
  8. Type `source ~/.bashrc`
@@ -197,7 +196,7 @@ Click **Next: Configure Security Group** and let's proceed
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
  23. [New Version of Configuration File etc default grub is available: Unix.Stackexchange](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU0MzQ0MDMsNDk5Mjg3Mjg0LC0xNT
+eyJoaXN0b3J5IjpbLTEyNDM3OTMyNTMsNDk5Mjg3Mjg0LC0xNT
 g4MTc5MzM3LDEzMjAwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIx
 NTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMi
 wtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0
