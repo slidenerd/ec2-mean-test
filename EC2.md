@@ -37,6 +37,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  3. Here is another server-fault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
  4. Ubuntu updates more frequently. 
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
+ 6. MongoDB also includes some documentation on how to work with EC2 [HERE](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
 
 ## Create an Account on AWS
 
@@ -196,11 +197,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OT
-Y1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5
-ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMT
-UyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4
-NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MT
-gsLTE3OTkzODEyNzQsLTE1NzI1OTA0MDcsLTQ1MjY1MTU2NCw1
-NjE2NTQxODldfQ==
+eyJoaXN0b3J5IjpbMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1NT
+U3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOTUx
+ODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMT
+Q0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEy
+NjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMjksLTE3MDY2ODkxNj
+ksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwtMTU3MjU5MDQwNywt
+NDUyNjUxNTY0XX0=
 -->
