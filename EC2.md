@@ -45,9 +45,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 ## Go to your Dashboard
 ![EC2 Dashboard](https://i.imgur.com/ETyy6xr.png)
 
- 1. Whew! That looks overwhelming doesn't it?
- 2. Worry, not, [HERE](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) is a post explaining the various tabs and terminology. Report Broken Link
- 3. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
+ 1. My account is setup in Ohio, you could be in a different region and the process will remain more or less the same.
  4. **WARNING**! Changing the region means EC2 folks will email you to confirm the same which takes time.
 
 ## Step 1.1: Choose Amazon Machine Image
@@ -197,12 +195,13 @@ Click **Next: Configure Security Group** and let's proceed
  4. [MongoDB working with EC2 Documentation](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
  5. [Amazon Free Tier FAQ](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
+ 7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4Nj
-cyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4
-NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLT
-E4NjM5NTE4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0
-Nzc1LC0xNDQyMDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OS
-wzNjg0MTI2ODAsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcw
-NjY4OTE2OV19
+eyJoaXN0b3J5IjpbLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NT
+EwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4
+NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLT
+c4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1LDcyMjU3
+ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0MjcwNy
+wxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4NTE3LC0xMDIz
+NzI2MTI5XX0=
 -->
