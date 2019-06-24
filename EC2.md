@@ -80,7 +80,7 @@ This is one of the most important steps in our tutorial so far. You have several
  9. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
  12. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
- 13. The above screen now represents my added volumes. Though we have selected General Purpose SSD or gp2 volumes here, ideally you should be selected IOPS Volumes.
+ 13. The above screen now represents my added volumes. Though we have selected General Purpose SSD or gp2 volumes here, ideally you should be selected IOPS Volumes for production.
  14. Notice how **Delete on Termination** is set only for the primary volume. As you probably guessed, if you terminate the instance, you will lose all the data on that volume. 
  16. if you already have a running instance and did not do this step, no worries, go to your **Dashboard** and you will see a Volumes Section which allows you to do the same thing.
  17. Click on **Next: Add Tags** and let's proceed
@@ -197,7 +197,7 @@ Click **Next: Configure Security Group** and let's proceed
  17. [Do we need both security groups and server side firewall in EC2: Serverfault](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) Report Broken Link
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NzUyNTQ4LC02MDUyOTg4OSwtMjAxMz
+eyJoaXN0b3J5IjpbMTMyMDA1MzY2LC02MDUyOTg4OSwtMjAxMz
 A0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAy
 MDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOS
 wtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgy
