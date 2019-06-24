@@ -144,7 +144,6 @@ Click **Next: Configure Security Group** and let's proceed
 ![sudo apt-get update](https://imgur.com/V7drjPc.png)
  10. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
- 11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 ![Conflict in the menu package](https://imgur.com/Tr9Lq4X.png)
  12. `sudo apt-get dist-upgrade  # Installs updates (new ones)`
  13. At this stage, you want to restart your Ubuntu instance in order for the updates to take effect.
@@ -196,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) Report Broken Link
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgxNzkzMzcsMTMyMDA1MzY2LC02MD
-UyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5
-MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5Nz
-ksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2
-NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MD
-g1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwt
-MTg2Mzk1MTg1N119
+eyJoaXN0b3J5IjpbMjk1OTMzMDI2LC0xNTg4MTc5MzM3LDEzMj
+AwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5
+MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNC
+wxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUx
+MDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4OD
+QwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03
+ODMxMDIxODRdfQ==
 -->
