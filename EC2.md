@@ -30,8 +30,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 # Step 1: Setup Ubuntu instance on EC2
 
 **We are going to install Ubuntu 18.04 on EC2**. Why not Amazon Linux or Amazon Linux 2?
- 1. Amazon Linux seems to be maintained independently by Amazon as per [THIS](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) server-fault answer. Report Broken Link
- 2. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
+ 1. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  3. Here is another server-fault Answer that compares [Ubuntu vs Amazon Linux.](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
  4. Ubuntu updates more frequently. 
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
@@ -198,12 +197,13 @@ Click **Next: Configure Security Group** and let's proceed
 # Resources
  1. [Windows Putty SSH Connection to EC2](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) Report Broken Link
  2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
+ 3. [Amazon Linux vs Ubuntu Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTYwODMwMCwtOTg2NzIyODQ2LC0xOT
-gyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3
-MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1Ny
-wxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIw
-NTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MC
-wtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3
-NjcyMjI5MThdfQ==
+eyJoaXN0b3J5IjpbLTE0MzExNDIyODgsLTk4NjcyMjg0NiwtMT
+k4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3
+NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NT
+csMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQy
+MDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2OD
+AsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwx
+NzY3MjIyOTE4XX0=
 -->
