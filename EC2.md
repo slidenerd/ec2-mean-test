@@ -26,7 +26,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  12. **Setup Elastic IP** before getting a domain name
  13. How to setup a custom domain with **Godaddy**?
  14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
-	A small note would be that on a true production system, you want to install Node Express PM2 NGINX on one instance whereas MongoDB is installed on a separate instance backed by EBS IOPS Volumes to store data, logs and journal
+	A small note would be that on a true production system, you want to install Node on one instance and MongoDB on another instance. [HERE](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) is a stackoverflow answer discussing the same. Since this will go beyond the limits of FREE Tier we are going to setup both on the same instance.
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -198,11 +198,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTcyMjIyLC0xOTgyMDQ3NTg1LDE2Nj
-g4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMy
-NjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1LD
-cyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0
-MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4NTE3LC
-0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3NjcyMjI5MTgsLTE3
-OTkzODEyNzRdfQ==
+eyJoaXN0b3J5IjpbLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNj
+Y4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIz
+MjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3OTg1NS
+w3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1MjQ4
+NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4ODUxNy
+wtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIyOTE4LC0x
+Nzk5MzgxMjc0XX0=
 -->
