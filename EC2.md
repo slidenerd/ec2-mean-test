@@ -197,13 +197,13 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 # Resources
- 1. If you are on Windows, check [THIS](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) answer for setting up SSH connection with EC2. Report Broken Link
+ 1. [Windows Putty SSH Connection to EC2](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA5ODY5NDcsLTk4NjcyMjg0NiwtMT
-k4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3
-NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NT
-csMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQy
-MDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2OD
-AsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwx
-NzY3MjIyOTE4XX0=
+eyJoaXN0b3J5IjpbLTU0Mzg0ODA3OSwtOTg2NzIyODQ2LC0xOT
+gyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3
+MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1Ny
+wxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIw
+NTg4OSwtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MC
+wtNjczNzg4NTE3LC0xMDIzNzI2MTI5LC0xNzA2Njg5MTY5LDE3
+NjcyMjI5MThdfQ==
 -->
