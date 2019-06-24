@@ -1,4 +1,4 @@
-# How to install Node.js and MongoDB on EC2 the production hard way
+# How to install Node.js and MongoDB on EC2 the hard way
 
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not.
 
@@ -198,11 +198,11 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMz
-EzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAy
-MTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LD
-U5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0ODQyNzA3LDEyNDkz
-NTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MTcsLTEwMjM3MjYxMj
-ksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwtMTc5OTM4MTI3NCwt
-MTU3MjU5MDQwN119
+eyJoaXN0b3J5IjpbLTE1MjY3MzMwMTAsLTE5ODIwNDc1ODUsMT
+Y2ODg3ODg0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUy
+MzI2NCwtNzgzMTAyMTg0LC0xODYzOTUxODU3LDEyMTY1Nzk4NT
+UsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwtMTQ0MjA1ODg5LC0xNTI0
+ODQyNzA3LDEyNDkzNTQxOTksMzY4NDEyNjgwLC02NzM3ODg1MT
+csLTEwMjM3MjYxMjksLTE3MDY2ODkxNjksMTc2NzIyMjkxOCwt
+MTc5OTM4MTI3NF19
 -->
