@@ -156,7 +156,7 @@ Click **Next: Configure Security Group** and let's proceed
 
  1. We don't want to install a specific version of node.js
  2. We want the ability to switch between any version of node and even add/remove versions if needed.
- 3. This is exactly why we are going to use [NVM](https://github.com/nvm-sh/nvm) Report Broken Link
+ 3. This is exactly why we are going to use Node Version Manager (NVM)
  4. First, let's check if node or nvm are available on our Ubuntu instance.
 ![Node and NVm are not available](https://imgur.com/zS8rDAD.png)
  5. Type `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
@@ -197,11 +197,11 @@ Click **Next: Configure Security Group** and let's proceed
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
  23. [New Version of Configuration File etc default grub is available: Unix.Stackexchange](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5Mjg3Mjg0LC0xNTg4MTc5MzM3LDEzMj
-AwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5
-MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNC
-wxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUx
-MDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4OD
-QwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03
-ODMxMDIxODRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjU0MzQ0MDMsNDk5Mjg3Mjg0LC0xNT
+g4MTc5MzM3LDEzMjAwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIx
+NTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMi
+wtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0
+MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0Nz
+U4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwt
+Njk2NTIzMjY0XX0=
 -->
