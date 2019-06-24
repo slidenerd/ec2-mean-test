@@ -1,5 +1,4 @@
 # How to install Node.js and MongoDB on EC2 the hard way
-
 Hi! I got tired of reading guides on the internet that do no explain anything properly. And sorry to say this but the EC2 docs suck at explaining anything. This guide is designed for people who are total newbies to the whole world of Amazon, Ubuntu, NGINX, LetsEncrypt and what not.
 
 >  **Even if you read 300 more articles on the Internet** I assure you, **this one post will blow away all of them.** **Bookmark it!**
@@ -27,7 +26,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  12. **Setup Elastic IP** before getting a domain name
  13. How to setup a custom domain with **Godaddy**?
  14. How to setup **FREE SSL** on the custom domain using **LetsEncrypt/Certbot**? Let's GOO!
-A small note would be that on a true production system, you want to install Node Express PM@ 
+	A small note would be that on a true production system, you want to install Node Express PM2 NGINX on one instance whereas MongoDB is installed on a separate instance backed by EBS IOPS Volumes to store data, logs and journal
 
 # Step 1: Setup Ubuntu instance on EC2
 
@@ -199,7 +198,7 @@ Click **Next: Configure Security Group** and let's proceed
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjY0Mjg3LC0xOTgyMDQ3NTg1LDE2Nj
+eyJoaXN0b3J5IjpbNDAyNTcyMjIyLC0xOTgyMDQ3NTg1LDE2Nj
 g4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMy
 NjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1LD
 cyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0
