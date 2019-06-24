@@ -194,10 +194,10 @@ Click **Next: Configure Security Group** and let's proceed
  12. [Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
  13. [MongoDB Documentation: Separate data, logs and journal into different storage devices](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) Report Broken Link
  14. [MongoDB, should I separate journal and data to different drives: DBA Stackexchange](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
- 15. [Difference between stopping and terminating an EC2 instance](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) you go. Report Broken Link
+ 15. [Difference between stopping and terminating an EC2 instance](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  15. [HERE](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) is another answer on stackoverflow that discusses the billing for terminated vs stopped instances. Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc1NDgyNzQsLTIwMTMwNDIxNTIsMj
+eyJoaXN0b3J5IjpbLTIwMjMwNzg3MDEsLTIwMTMwNDIxNTIsMj
 A5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2
 MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMz
 E2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwx
