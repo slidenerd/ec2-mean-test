@@ -142,7 +142,6 @@ Click **Next: Configure Security Group** and let's proceed
  1. As per the most popular answer to update above, run
  8. `sudo apt-get update        # Fetches the list of available updates`
 ![sudo apt-get update](https://imgur.com/V7drjPc.png)
- 9. Note that you can use apt-get or apt. In case, you are wondering what is the difference between them. [HERE](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) is another answer. Report Broken Link
  10. `sudo apt-get upgrade       # Strictly upgrades the current packages`
 ![sudo apt get upgrade](https://imgur.com/lN1K1S2.png)
  11. The upgrade step will require a confirmation on your end, Press Y and you may also encounter a conflict in the menu package. You can read more about this issue [HERE](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
@@ -196,7 +195,7 @@ Click **Next: Configure Security Group** and let's proceed
  20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTA2ODA3MiwxMzIwMDUzNjYsLTYwNT
+eyJoaXN0b3J5IjpbMTk5NDYwMjM0MSwxMzIwMDUzNjYsLTYwNT
 I5ODg5LC0yMDEzMDQyMTUyLDIwOTU2MTc0OTEsLTEzMjI1Nzkw
 NTEsLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OS
 wtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3
