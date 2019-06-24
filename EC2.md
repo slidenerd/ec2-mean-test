@@ -35,7 +35,6 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
  5. We don't know exactly if Amazon Linux is optimized for our use case or not but any claims for optimization must always be backed by benchmarks specific to our case which we don't have at the moment.
 
 ## Create an Account on AWS
-
  1. Easy Peasy Lemon Squeezy.
  2. Enter email
  3. Enter password
@@ -197,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NT
-EwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4
-NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLT
-c4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1LDcyMjU3
-ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OSwtMTUyNDg0MjcwNy
-wxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjczNzg4NTE3LC0xMDIz
-NzI2MTI5XX0=
+eyJoaXN0b3J5IjpbLTE3MTM1NDg0NjEsLTg3MDc2MDYzOSwtND
+QyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3
+NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC
+02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2
+NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OS
+wtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjcz
+Nzg4NTE3XX0=
 -->
