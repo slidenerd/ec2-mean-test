@@ -94,8 +94,6 @@ Click **Next: Configure Security Group** and let's proceed
 ## Step 1.6: Configure Security Group
 
  1. Security Groups are analogous to a Firewall with differences of course.
- 2. In case, you are wondering if you need both, [HERE](https://serverfault.com/questions/899278/do-we-need-both-security-groups-and-server-side-firewall-in-aws-ec2) is an answer that discusses if you need both. Report Broken Link
- 3. [HERE](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2) is another answer that talks about why both exist and what you are supposed to do. Report Broken Link.
 ![Step 6: Configure Security Group](https://imgur.com/Nh3Krs7.png)
  4. By default, we only have SSH port 22 open here. We click **Add Rule** and select **HTTP** from the dropdown and similarly add another rule for **HTTPS**
  5. We will open more ports for Node and Mongo as required down the line. So keep this Tab in mind.
@@ -197,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  15. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTQzOTQzNywtMjAxMzA0MjE1MiwyMD
-k1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYx
-ODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMT
-Y4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2
-Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC02OTY1Mj
-MyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2NTc5ODU1
-LDcyMjU3ODE0N119
+eyJoaXN0b3J5IjpbLTExNzkyNjE2MTMsLTIwMTMwNDIxNTIsMj
+A5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2
+MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMz
+E2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwx
+NjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NT
+IzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3OTg1
+NSw3MjI1NzgxNDddfQ==
 -->
