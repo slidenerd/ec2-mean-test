@@ -194,13 +194,13 @@ Click **Next: Configure Security Group** and let's proceed
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
  19. [Where do I keep my Amazon PEM files on OSX: Stackoverflow](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) Report Broken Link
  20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
- 21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
+ 21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777)  Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDkxMDYyLDEzMjAwNTM2NiwtNjA1Mj
-k4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1
-MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC
-04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4Njcy
-Mjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NS
-wtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4
-NjM5NTE4NTddfQ==
+eyJoaXN0b3J5IjpbLTE1NDc3MDQwMDYsMTMyMDA1MzY2LC02MD
+UyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5
+MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5Nz
+ksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2
+NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MD
+g1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwt
+MTg2Mzk1MTg1N119
 -->
