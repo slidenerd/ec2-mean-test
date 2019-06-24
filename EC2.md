@@ -28,7 +28,7 @@ If this post needs an update, [open an issue](https://github.com/slidenerd/ec2-m
 	A small note would be that on a true production system, you want to install Node on one instance and MongoDB on another instance. [HERE](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) is a stackoverflow answer discussing the same. Since this will go beyond the limits of FREE Tier we are going to setup both on the same instance.
 
 # Step 1: Setup Ubuntu instance on EC2
- 1. **We are going to install Ubuntu 18.04 on EC2**.  
+ 1. We are going to install Ubuntu 18.04 on EC2.  
  2. Why not Amazon Linux or Amazon Linux 2?
  3. We would prefer that are we not dependent on a single entity for updates to the OS which happens to be Amazon here.
  4. Ubuntu updates more frequently. 
@@ -196,11 +196,11 @@ Click **Next: Configure Security Group** and let's proceed
  6. [AWS VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) Report Broken Link.
  7. [EC2 Dashboard Terminology Explained](https://hackernoon.com/understanding-amazon-ec2-terminology-85be19d0af28) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM1NDg0NjEsLTg3MDc2MDYzOSwtND
-QyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3
-NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1Nzc3MDI2LC
-02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MTg1NywxMjE2
-NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0NDIwNTg4OS
-wtMTUyNDg0MjcwNywxMjQ5MzU0MTk5LDM2ODQxMjY4MCwtNjcz
-Nzg4NTE3XX0=
+eyJoaXN0b3J5IjpbODIyNDI3MTU1LC04NzA3NjA2MzksLTQ0Mj
+MxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4
+NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNj
+k2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3
+OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLT
+E1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4
+ODUxN119
 -->
