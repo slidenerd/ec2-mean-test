@@ -193,10 +193,10 @@ Click **Next: Configure Security Group** and let's proceed
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
  12. [Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
- [THIS](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) documentation resource from MongoDB clearly mentions why separation is optimal. Report Broken Link
- 11. Another post from dba.stackexchange.com explaining data and journal separation [HERE](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
+ 13. [THIS](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) documentation resource from MongoDB clearly mentions why separation is optimal. Report Broken Link
+ 14. Another post from dba.stackexchange.com explaining data and journal separation [HERE](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzE4OTU0NCwyMDk1NjE3NDkxLC0xMz
+eyJoaXN0b3J5IjpbMTExNTg4NzQ0OSwyMDk1NjE3NDkxLC0xMz
 IyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzcz
 Mjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3Ni
 wtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMx
