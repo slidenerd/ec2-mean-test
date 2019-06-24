@@ -194,13 +194,13 @@ Click **Next: Configure Security Group** and let's proceed
  8. [Should MongoDB run on its own EC2 instance: Stackoverflow](https://stackoverflow.com/questions/8742240/should-i-be-running-mongodb-on-its-own-ec2-instance) Report Broken Link
  9. [x86 vs ARM processors EC2](https://lmgtfy.com/?q=ec2%20x86%20vs%20arm). Report Broken Link
  10. [t2.micro specs and Pricing](https://lmgtfy.com/?q=ec2%20t2%20micro%20specs) Report Broken Link
- 4. [HERE](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) is a question from stackoverflow that answers if this is enough for MongoDB. Report Broken Link 
+ 4. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NDI3OTQ4LC0xMzIyNTc5MDUxLC0xNj
-k0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5NzksLTg3MDc2
-MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC
-0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MDg1LC0xNTU1
-Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwtMTg2Mzk1MT
-g1NywxMjE2NTc5ODU1LDcyMjU3ODE0Nyw1OTM0NTQ3NzUsLTE0
-NDIwNTg4OV19
+eyJoaXN0b3J5IjpbLTEwNzYzMDE1NzMsLTEzMjI1NzkwNTEsLT
+E2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMyODk3OSwtODcw
+NzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC05ODY3MjI4ND
+YsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEzMTcwODUsLTE1
+NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMTg0LC0xODYzOT
+UxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5MzQ1NDc3NSwt
+MTQ0MjA1ODg5XX0=
 -->
