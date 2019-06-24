@@ -78,8 +78,6 @@ This is one of the most important steps in our tutorial so far. You have several
 ![Step 4: Add Storage](https://imgur.com/tzi5AqC.png)
  8. We get 30 GB (as of writing this post) for our instance out of which 8GB has been allocated to our instance. This 8GB will store our OS files for Ubuntu, Node, Nginx, Certbot and other tools and updates plus MongoDB (without the actual database)
  9. We still have 22 GB left which we can allocate separately to EBS Volumes as 16GB (data) + 4GB (journal) + 2GB (logs)
- 10. [THIS](https://docs.mongodb.com/manual/administration/production-notes/#separate-components-onto-different-storage-devices) documentation resource from MongoDB clearly mentions why separation is optimal. Report Broken Link
- 11. Another post from dba.stackexchange.com explaining data and journal separation [HERE](https://dba.stackexchange.com/questions/33669/mongodb-should-i-separate-the-journal-and-the-data-to-different-drives) Report Broken Link
  12. To do so, click on **Add New Volume** where you will be able to add 16, 4, 2 GB one by one.
  ![Step 4: Add Storage EBS Volumes](https://imgur.com/c4tDxod.png) 
  13. The above screen now represents my added volumes.
@@ -196,11 +194,11 @@ Click **Next: Configure Security Group** and let's proceed
  11. [Are Amazon's Micro instances good for MongoDB servers: Stackoverflow](https://stackoverflow.com/questions/5287882/are-amazons-micro-instances-linux-64bit-good-for-mongodb-servers) Report Broken Link 
  12.[Types of EBS Volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html) Report Broken Link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTYxNzQ5MSwtMTMyMjU3OTA1MSwtMT
-Y5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC04NzA3
-NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4NjcyMjg0Ni
-wtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1
-NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NT
-E4NTcsMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0x
-NDQyMDU4ODldfQ==
+eyJoaXN0b3J5IjpbLTI3OTYxNjQ0LDIwOTU2MTc0OTEsLTEzMj
+I1NzkwNTEsLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MTQsMTIzNzMy
+ODk3OSwtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1MTA5OTc2LC
+05ODY3MjI4NDYsLTE5ODIwNDc1ODUsMTY2ODg3ODg0MCwzMzEz
+MTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwtNzgzMTAyMT
+g0LC0xODYzOTUxODU3LDEyMTY1Nzk4NTUsNzIyNTc4MTQ3LDU5
+MzQ1NDc3NV19
 -->
