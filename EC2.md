@@ -195,12 +195,13 @@ Click **Next: Configure Security Group** and let's proceed
  20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) Report Broken Link
  22. [Difference between apt and apt-get: AskUbuntu](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get) Report Broken Link
+ 23. [New Version of Configuration File etc default grub is available: Unix.Stackexchange](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTY4MDU4MiwtMTU4ODE3OTMzNywxMz
-IwMDUzNjYsLTYwNTI5ODg5LC0yMDEzMDQyMTUyLDIwOTU2MTc0
-OTEsLTEzMjI1NzkwNTEsLTE2OTQzMDIwMzIsLTEyNjE4MTQ0MT
-QsMTIzNzMyODk3OSwtODcwNzYwNjM5LC00NDIzMTMxNjgsNzQ1
-MTA5OTc2LC05ODY3MjI4NDYsLTE5ODIwNDc1ODUsMTY2ODg3OD
-g0MCwzMzEzMTcwODUsLTE1NTU3NzcwMjYsLTY5NjUyMzI2NCwt
-NzgzMTAyMTg0XX0=
+eyJoaXN0b3J5IjpbNDk5Mjg3Mjg0LC0xNTg4MTc5MzM3LDEzMj
+AwNTM2NiwtNjA1Mjk4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5
+MSwtMTMyMjU3OTA1MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNC
+wxMjM3MzI4OTc5LC04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUx
+MDk5NzYsLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4OD
+QwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03
+ODMxMDIxODRdfQ==
 -->
