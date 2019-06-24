@@ -197,12 +197,15 @@ Click **Next: Configure Security Group** and let's proceed
 ![nvm install 10.16.0](https://imgur.com/XQFMRCR.png)
  12. Wonderful! not only is the installation successful but the node command also starts working and node --version shows 10.16.0. **Node.js installation complete!**
 
+# Resources
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjcyMjg0NiwtMTk4MjA0NzU4NSwxNj
-Y4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3NzAyNiwtNjk2NTIz
-MjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NTcsMTIxNjU3OTg1NS
-w3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQyMDU4ODksLTE1MjQ4
-NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2ODAsLTY3Mzc4ODUxNy
-wtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwxNzY3MjIyOTE4LC0x
-Nzk5MzgxMjc0XX0=
+eyJoaXN0b3J5IjpbLTEzODA4MzA3NjAsLTk4NjcyMjg0NiwtMT
+k4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NSwtMTU1NTc3
+NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4NjM5NTE4NT
+csMTIxNjU3OTg1NSw3MjI1NzgxNDcsNTkzNDU0Nzc1LC0xNDQy
+MDU4ODksLTE1MjQ4NDI3MDcsMTI0OTM1NDE5OSwzNjg0MTI2OD
+AsLTY3Mzc4ODUxNywtMTAyMzcyNjEyOSwtMTcwNjY4OTE2OSwx
+NzY3MjIyOTE4XX0=
 -->
