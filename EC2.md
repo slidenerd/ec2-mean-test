@@ -194,8 +194,9 @@ Click **Next: Configure Security Group** and let's proceed
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
  19. [Where do I keep my Amazon PEM files on OSX: Stackoverflow](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) Report Broken Link
  20. [0644 directory permission explained: FilePermissions](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
+ 21. [How to install Ubuntu updates via command line: AskUbuntu](https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line/196777#196777) is a lovely answer that describes different ways of updating Ubuntu. Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5ODAwNTUxLDEzMjAwNTM2NiwtNjA1Mj
+eyJoaXN0b3J5IjpbODMyMDkxMDYyLDEzMjAwNTM2NiwtNjA1Mj
 k4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1
 MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC
 04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4Njcy
