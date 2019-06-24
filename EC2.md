@@ -134,7 +134,6 @@ Click **Next: Configure Security Group** and let's proceed
 
 ![SSH Permission Error](https://imgur.com/CNedvMV.png)
  1. You will get an error like this which is good. It is telling us that the SSH private key file can be read by anyone and we need to change the permission before connecting to EC2, 
- 2. You can read about **0644 permission** [HERE](http://www.filepermissions.com/directory-permission/0644) Report Broken Link
  3. Run `chmod 400 ~/.ssh/node_mongo_prod_test.pem` on the OSX terminal to change permission. 
 ![SSH Connection Successful](https://imgur.com/YTJlBYk.png)
  4. **WONDERFUL**! Notice that command prompt changing to ubuntu@ip at the end? That is our instance into which we just logged in using SSH
@@ -196,11 +195,11 @@ Click **Next: Configure Security Group** and let's proceed
  18. [Why have both Security Groups and IPTables on EC2: Serverfault](https://serverfault.com/questions/286665/why-have-both-security-groups-and-iptables-on-amazon-ec2)  Report Broken Link.
  19. [Where do I keep my Amazon PEM files on OSX: Stackoverflow](https://stackoverflow.com/questions/25626592/where-do-i-keep-my-amazon-pem-file-on-a-mac) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMxNjMwOTYsMTMyMDA1MzY2LC02MD
-UyOTg4OSwtMjAxMzA0MjE1MiwyMDk1NjE3NDkxLC0xMzIyNTc5
-MDUxLC0xNjk0MzAyMDMyLC0xMjYxODE0NDE0LDEyMzczMjg5Nz
-ksLTg3MDc2MDYzOSwtNDQyMzEzMTY4LDc0NTEwOTk3NiwtOTg2
-NzIyODQ2LC0xOTgyMDQ3NTg1LDE2Njg4Nzg4NDAsMzMxMzE3MD
-g1LC0xNTU1Nzc3MDI2LC02OTY1MjMyNjQsLTc4MzEwMjE4NCwt
-MTg2Mzk1MTg1N119
+eyJoaXN0b3J5IjpbMjk5NjQwODcwLDEzMjAwNTM2NiwtNjA1Mj
+k4ODksLTIwMTMwNDIxNTIsMjA5NTYxNzQ5MSwtMTMyMjU3OTA1
+MSwtMTY5NDMwMjAzMiwtMTI2MTgxNDQxNCwxMjM3MzI4OTc5LC
+04NzA3NjA2MzksLTQ0MjMxMzE2OCw3NDUxMDk5NzYsLTk4Njcy
+Mjg0NiwtMTk4MjA0NzU4NSwxNjY4ODc4ODQwLDMzMTMxNzA4NS
+wtMTU1NTc3NzAyNiwtNjk2NTIzMjY0LC03ODMxMDIxODQsLTE4
+NjM5NTE4NTddfQ==
 -->
