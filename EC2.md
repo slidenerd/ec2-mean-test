@@ -181,7 +181,7 @@ Click **Next: Configure Security Group** and let's proceed
 
 # Resources
  1. [Windows Putty SSH Connection to EC2](https://stackoverflow.com/questions/10287337/ssh-to-amazon-ec2-instance-using-putty-in-windows) Report Broken Link
- 2.  [EC2 AMI recommendations from serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
+ 2.  [EC2 AMI recommendations: Serverfault](https://serverfault.com/questions/197927/amazon-ec2-ami-recommendations-for-free-tier) Report Broken Link
  3. [Amazon Linux vs Ubuntu: Serverfault](https://serverfault.com/questions/275736/amazon-linux-vs-ubuntu-for-amazon-ec2) Report Broken Link
  4. [MongoDB working with EC2 Documentation: MongoDB Docs](https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/) Report Broken Link
  5. [Amazon Free Tier FAQ: AWS Docs](https://aws.amazon.com/free/free-tier-faqs/) Report Broken Link.
@@ -197,7 +197,7 @@ Click **Next: Configure Security Group** and let's proceed
  15. [Difference between stopping and terminating an EC2 instance: Rightscale](https://docs.rightscale.com/faq/clouds/aws/Whats_the_difference_between_Terminating_and_Stopping_an_EC2_Instance.html) Report Broken Link
  15. [Do you get charged for a stopped instance on EC2: Stackoverflow](https://stackoverflow.com/questions/2549035/do-you-get-charged-for-a-stopped-instance-on-ec2/10419883#10419883) Report Broken Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTk3NTA4MSwtMjAxMzA0MjE1MiwyMD
+eyJoaXN0b3J5IjpbMTQ5ODA2MjkzNywtMjAxMzA0MjE1MiwyMD
 k1NjE3NDkxLC0xMzIyNTc5MDUxLC0xNjk0MzAyMDMyLC0xMjYx
 ODE0NDE0LDEyMzczMjg5NzksLTg3MDc2MDYzOSwtNDQyMzEzMT
 Y4LDc0NTEwOTk3NiwtOTg2NzIyODQ2LC0xOTgyMDQ3NTg1LDE2
